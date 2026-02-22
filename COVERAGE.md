@@ -8,13 +8,13 @@
 |--------|------:|------|-------------|---------|
 | UN SC Resolutions | 254 | provisions | Full | on_change |
 | UN Committee Guidance | 69 | provisions | Full | on_change |
-| EU Restrictive Measures | 484 | provisions | Full | on_change |
-| US OFAC Executive Orders | 350 | provisions + EOs | Full | on_change |
-| US BIS EAR | 100 | export controls | Full | on_change |
-| UK OFSI Regulations | 293 | provisions | Full | on_change |
-| CJEU Sanctions Case Law | 125 | case law | Full | monthly |
+| EU Restrictive Measures | 483 | provisions | Full | on_change |
+| US OFAC Executive Orders | 176 | executive orders | Full | on_change |
+| US BIS EAR | 51 | export controls | Full | on_change |
+| UK OFSI Regulations | 246 | provisions | Full | on_change |
+| CJEU Sanctions Case Law | 1 | case law | Full | monthly |
 
-**Total:** 11 tools, 1,675 items (1,280 provisions + 174 EOs + 97 export controls + 124 case law), 6 regimes, 4 delisting procedures
+**Total:** 11 tools, 1,280 provisions + 174 EOs + 97 export controls + 124 case law + 4 delisting procedures = **1,679 items**, 6 regimes
 
 ## What's NOT Included
 

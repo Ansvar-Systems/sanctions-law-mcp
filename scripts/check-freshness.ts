@@ -14,12 +14,13 @@ interface FreshnessRow {
   notes: string;
 }
 
+// Thresholds aligned with runtime tool (src/tools/sanctions-utils.ts frequencyThresholdDays)
 const FREQUENCY_DAYS: Record<string, number> = {
-  daily: 2,
-  weekly: 10,
-  monthly: 45,
-  quarterly: 120,
-  on_change: 30,
+  daily: 30,
+  weekly: 60,
+  monthly: 120,
+  quarterly: 180,
+  on_change: 90,
 };
 
 function main(): void {

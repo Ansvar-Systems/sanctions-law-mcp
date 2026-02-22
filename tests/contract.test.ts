@@ -79,6 +79,34 @@ describe('Golden Contract Tests', () => {
       expect(result).toBeDefined();
 
       // Check assertions
+      if (test.assertions.result_not_empty) {
+        const isEmpty =
+          result === null ||
+          result === undefined ||
+          (Array.isArray(result) && result.length === 0) ||
+          (typeof result === 'object' && Object.keys(result as object).length === 0);
+        expect(isEmpty, `Expected non-empty result for ${test.id}`).toBe(false);
+      }
+
+      if (test.assertions.result_empty) {
+        const isEmpty =
+          result === null ||
+          result === undefined ||
+          (Array.isArray(result) && result.length === 0) ||
+          (typeof result === 'object' && Object.keys(result as object).length === 0);
+        expect(isEmpty, `Expected empty result for ${test.id}`).toBe(true);
+      }
+
+      if (test.assertions.result_empty_or_error) {
+        const isEmpty =
+          result === null ||
+          result === undefined ||
+          (Array.isArray(result) && result.length === 0) ||
+          (typeof result === 'object' && Object.keys(result as object).length === 0);
+        const isError = typeof result === 'object' && result !== null && 'error' in result;
+        expect(isEmpty || isError, `Expected empty or error result for ${test.id}`).toBe(true);
+      }
+
       if (test.assertions.has_fields) {
         const fields = test.assertions.has_fields as string[];
         for (const field of fields) {

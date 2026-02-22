@@ -20,7 +20,10 @@ export function normalizeStringArray(values: string[] | undefined): string[] {
 }
 
 export function escapeFts5Query(query: string): string {
-  return query.replace(/[()^*:]/g, (character) => `"${character}"`).trim();
+  // Escape all FTS5 special characters: double quotes, parentheses, braces,
+  // caret, asterisk, colon, plus, minus. Boolean operators (AND/OR/NOT/NEAR)
+  // are left alone — they're valid FTS5 syntax.
+  return query.replace(/[(){}^*:+"\\-]/g, (character) => `"${character}"`).trim();
 }
 
 export function parseJsonField<T>(value: string | null): T | null {

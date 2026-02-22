@@ -1,8 +1,10 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "mcp": "sanctions-law-mcp",
+  "mcp_type": "domain-intelligence",
   "package": "@ansvar/sanctions-law-mcp",
   "generated_on": "2026-02-22",
+  "database_version": "0.1.0",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
@@ -14,65 +16,120 @@
     "export_controls": 97,
     "sanctions_case_law": 124,
     "source_freshness": 7,
+    "total_items": 1679,
     "estimated_coverage_percent": 100,
     "source_completion_100_percent": true
   },
+  "tools": [
+    "search_sanctions_law",
+    "get_provision",
+    "get_sanctions_regime",
+    "get_executive_order",
+    "check_cyber_sanctions",
+    "get_delisting_procedure",
+    "get_export_control",
+    "search_sanctions_case_law",
+    "list_sources",
+    "about",
+    "check_data_freshness"
+  ],
   "source_coverage": [
     {
       "id": "CJEU_SANCTIONS_CASE_LAW",
       "name": "CJEU sanctions case law",
+      "item_type": "case_law",
       "expected_records": 1,
       "actual_records": 1,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "monthly"
     },
     {
       "id": "EU_RESTRICTIVE_MEASURES",
       "name": "EU restrictive measures legal texts",
+      "item_type": "provisions",
       "expected_records": 483,
       "actual_records": 483,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
     },
     {
       "id": "UK_OFSI_REGULATIONS",
       "name": "UK OFSI sanctions regulations",
+      "item_type": "provisions",
       "expected_records": 246,
       "actual_records": 246,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
     },
     {
       "id": "UN_COMMITTEE_GUIDANCE",
       "name": "UN sanctions committee guidance",
+      "item_type": "provisions",
       "expected_records": 69,
       "actual_records": 69,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
     },
     {
       "id": "UN_SC_RESOLUTIONS",
       "name": "UN Security Council sanctions resolutions",
+      "item_type": "provisions",
       "expected_records": 254,
       "actual_records": 254,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
     },
     {
       "id": "US_BIS_EAR",
       "name": "US BIS Export Administration Regulations",
+      "item_type": "export_controls",
       "expected_records": 51,
       "actual_records": 51,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
     },
     {
       "id": "US_OFAC_EXECUTIVE_ORDERS",
       "name": "US OFAC executive orders and guidance",
+      "item_type": "executive_orders",
       "expected_records": 176,
       "actual_records": 176,
       "completion": 1,
-      "completion_percent": 100
+      "completion_percent": 100,
+      "refresh_frequency": "on_change"
+    }
+  ],
+  "gaps": [
+    {
+      "id": "entity_screening",
+      "description": "Entity screening lists (SDN, EU consolidated) — out of scope, use Sanctions MCP",
+      "planned": false
+    },
+    {
+      "id": "national_court_decisions",
+      "description": "National court sanctions decisions — only CJEU/General Court covered",
+      "planned": true
+    },
+    {
+      "id": "additional_jurisdictions",
+      "description": "Swiss, Australian, Canadian sanctions law — currently UN, EU, US, UK only",
+      "planned": true
+    },
+    {
+      "id": "multilateral_export_regimes",
+      "description": "Wassenaar Arrangement & multilateral export control regimes",
+      "planned": true
+    },
+    {
+      "id": "historical_regimes",
+      "description": "Historical/repealed sanctions regimes — only current active regimes",
+      "planned": true
     }
   ]
 }

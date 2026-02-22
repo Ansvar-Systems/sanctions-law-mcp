@@ -12,11 +12,13 @@ on:
   push:
     branches:
       - main
+      - dev
       - 'feature/*'
       - 'fix/*'
   pull_request:
     branches:
       - main
+      - dev
 
 jobs:
   # ─────────────────────────────────────────────────────────────────────────
@@ -49,6 +51,14 @@ jobs:
 
       - name: Run tests
         run: npm test
+
+      - name: Run contract tests
+        if: matrix.node-version == 20
+        run: npm run test:contract
+
+      - name: Verify coverage consistency
+        if: matrix.node-version == 20
+        run: npm run coverage:verify
 
       # ─────────────────────────────────────────────────────────────────────
       # COVERAGE (only on Node 20)
