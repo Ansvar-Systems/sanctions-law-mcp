@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-02-22T07:54:32.369Z",
+  "as_of": "2026-02-22",
+  "totals": {
+    "fresh": 5,
+    "warning": 1,
+    "stale": 1,
+    "planned": 0
+  },
+  "entries": [
+    {
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "source_name": "CJEU sanctions case law",
+      "update_frequency": "monthly",
+      "last_checked": "2026-02-22",
+      "last_updated": "2025-12-03",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 125 source records.",
+      "age_days": 81,
+      "expected_max_age_days": 120,
+      "evaluated_status": "fresh",
+      "needs_refresh": false
+    },
+    {
+      "source_id": "EU_RESTRICTIVE_MEASURES",
+      "source_name": "EU restrictive measures legal texts",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2025-10-19",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 484 source records.",
+      "age_days": 126,
+      "expected_max_age_days": 90,
+      "evaluated_status": "warning",
+      "needs_refresh": true
+    },
+    {
+      "source_id": "UK_OFSI_REGULATIONS",
+      "source_name": "UK OFSI sanctions regulations",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2026-02-18",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 293 source records.",
+      "age_days": 4,
+      "expected_max_age_days": 90,
+      "evaluated_status": "fresh",
+      "needs_refresh": false
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "source_name": "UN sanctions committee guidance",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2025-01-01",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 69 source records.",
+      "age_days": 417,
+      "expected_max_age_days": 90,
+      "evaluated_status": "stale",
+      "needs_refresh": true
+    },
+    {
+      "source_id": "UN_SC_RESOLUTIONS",
+      "source_name": "UN Security Council sanctions resolutions",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2026-01-01",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 254 source records.",
+      "age_days": 52,
+      "expected_max_age_days": 90,
+      "evaluated_status": "fresh",
+      "needs_refresh": false
+    },
+    {
+      "source_id": "US_BIS_EAR",
+      "source_name": "US BIS Export Administration Regulations",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2026-01-15",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 100 source records.",
+      "age_days": 38,
+      "expected_max_age_days": 90,
+      "evaluated_status": "fresh",
+      "needs_refresh": false
+    },
+    {
+      "source_id": "US_OFAC_EXECUTIVE_ORDERS",
+      "source_name": "US OFAC executive orders and guidance",
+      "update_frequency": "on_change",
+      "last_checked": "2026-02-22",
+      "last_updated": "2026-02-11",
+      "declared_status": "fresh",
+      "notes": "Full-corpus ingestion completed with 350 source records.",
+      "age_days": 11,
+      "expected_max_age_days": 90,
+      "evaluated_status": "fresh",
+      "needs_refresh": false
+    }
+  ]
+}

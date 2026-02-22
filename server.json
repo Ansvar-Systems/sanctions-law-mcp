@@ -1,0 +1,32 @@
+{
+  "name": "sanctions-law-mcp",
+  "display_name": "Sanctions Law MCP",
+  "description": "Sanctions legal frameworks via MCP — UN, EU, US, UK sanctions law, executive orders, case law, export controls. Part of the Ansvar MCP Network.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ansvar Systems",
+    "url": "https://ansvar.eu"
+  },
+  "license": "Apache-2.0",
+  "repository": "https://github.com/Ansvar-Systems/sanctions-law-mcp",
+  "homepage": "https://ansvar.ai/mcp",
+  "categories": ["legal", "compliance"],
+  "tags": ["sanctions", "mcp", "compliance", "ofac", "eu-sanctions", "export-control", "aml"],
+  "transport": {
+    "stdio": {
+      "command": "npx",
+      "args": ["@ansvar/sanctions-law-mcp"]
+    },
+    "http": {
+      "url": "https://sanctions-law-mcp.vercel.app/mcp"
+    }
+  },
+  "tools": 11,
+  "data": {
+    "sources": 7,
+    "provisions": 1280,
+    "executive_orders": 174,
+    "case_law": 124,
+    "export_controls": 97
+  }
+}

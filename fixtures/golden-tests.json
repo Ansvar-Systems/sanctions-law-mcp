@@ -1,0 +1,102 @@
+{
+  "version": "1.0",
+  "mcp_name": "Sanctions Law MCP",
+  "tests": [
+    {
+      "id": "sl-001",
+      "category": "data_retrieval",
+      "description": "Search for cyber sanctions provisions",
+      "tool": "search_sanctions_law",
+      "input": { "query": "cyber sanctions", "limit": 5 },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-002",
+      "category": "data_retrieval",
+      "description": "Get sanctions regime by jurisdiction",
+      "tool": "get_sanctions_regime",
+      "input": { "jurisdiction": "EU" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-003",
+      "category": "data_retrieval",
+      "description": "Check cyber sanctions aggregation",
+      "tool": "check_cyber_sanctions",
+      "input": {},
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-004",
+      "category": "search",
+      "description": "Search for asset freeze provisions",
+      "tool": "search_sanctions_law",
+      "input": { "query": "asset freeze", "jurisdictions": ["EU"] },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-005",
+      "category": "search",
+      "description": "Search case law for delisting",
+      "tool": "search_sanctions_case_law",
+      "input": { "delisting_related": true },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-006",
+      "category": "cross_reference",
+      "description": "Get export controls for US jurisdiction",
+      "tool": "get_export_control",
+      "input": { "jurisdiction": "US", "limit": 5 },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-007",
+      "category": "cross_reference",
+      "description": "Get delisting procedures",
+      "tool": "get_delisting_procedure",
+      "input": {},
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-008",
+      "category": "negative_test",
+      "description": "Search with nonexistent regime returns empty",
+      "tool": "get_sanctions_regime",
+      "input": { "regime_id": "nonexistent-regime-xyz" },
+      "assertions": { "result_empty": true }
+    },
+    {
+      "id": "sl-009",
+      "category": "negative_test",
+      "description": "Get provision with invalid source returns error or empty",
+      "tool": "get_provision",
+      "input": { "source_id": "INVALID_SOURCE", "item_id": "fake-item" },
+      "assertions": { "result_empty_or_error": true }
+    },
+    {
+      "id": "sl-010",
+      "category": "meta_tool",
+      "description": "About tool returns valid metadata",
+      "tool": "about",
+      "input": {},
+      "assertions": { "result_not_empty": true, "has_fields": ["name", "version", "stats", "network", "disclaimer"] }
+    },
+    {
+      "id": "sl-011",
+      "category": "meta_tool",
+      "description": "Check data freshness returns report",
+      "tool": "check_data_freshness",
+      "input": {},
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "sl-012",
+      "category": "meta_tool",
+      "description": "List sources returns all 7 sources",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": { "result_not_empty": true }
+    }
+  ]
+}
