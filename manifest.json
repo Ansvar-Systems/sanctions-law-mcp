@@ -1,0 +1,95 @@
+{
+  "manifest_version": "0.3",
+  "name": "sanctions-law-mcp",
+  "display_name": "Sanctions Law MCP",
+  "version": "0.1.0",
+  "description": "MCP server for sanctions legal frameworks across UN, EU, US, UK, and CJEU case law. Focused on legal basis, not entity screening.",
+  "author": {
+    "name": "Ansvar Systems",
+    "email": "hello@ansvar.eu",
+    "url": "https://ansvar.eu"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ansvar-Systems/sanctions-law-mcp"
+  },
+  "homepage": "https://github.com/Ansvar-Systems/sanctions-law-mcp#readme",
+  "keywords": [
+    "international-law",
+    "sanctions",
+    "ofac",
+    "eu-restrictive-measures",
+    "export-control",
+    "aml"
+  ],
+  "server": {
+    "type": "node",
+    "entry_point": "dist/index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": [
+        "${__dirname}/dist/index.js"
+      ],
+      "env": {
+        "SANCTIONS_LAW_DB_PATH": "${workspaceFolder}/data/database.db"
+      }
+    }
+  },
+  "tools": [
+    {
+      "name": "search_sanctions_law",
+      "status": "implemented"
+    },
+    {
+      "name": "get_provision",
+      "status": "implemented"
+    },
+    {
+      "name": "get_sanctions_regime",
+      "status": "implemented"
+    },
+    {
+      "name": "get_executive_order",
+      "status": "implemented"
+    },
+    {
+      "name": "check_cyber_sanctions",
+      "status": "implemented"
+    },
+    {
+      "name": "get_delisting_procedure",
+      "status": "implemented"
+    },
+    {
+      "name": "get_export_control",
+      "status": "implemented"
+    },
+    {
+      "name": "search_sanctions_case_law",
+      "status": "implemented"
+    },
+    {
+      "name": "list_sources",
+      "status": "implemented"
+    },
+    {
+      "name": "about",
+      "status": "implemented"
+    },
+    {
+      "name": "check_data_freshness",
+      "status": "implemented"
+    }
+  ],
+  "compatibility": {
+    "platforms": [
+      "darwin",
+      "win32",
+      "linux"
+    ],
+    "runtimes": {
+      "node": ">=18.0.0"
+    }
+  }
+}

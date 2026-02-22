@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.1",
+  "mcp": "sanctions-law-mcp",
+  "package": "@ansvar/sanctions-law-mcp",
+  "generated_on": "2026-02-22",
+  "mode": "full-corpus",
+  "status": "implemented",
+  "summary": {
+    "sources": 7,
+    "sanctions_regimes": 6,
+    "provisions": 1280,
+    "executive_orders": 174,
+    "delisting_procedures": 4,
+    "export_controls": 97,
+    "sanctions_case_law": 124,
+    "source_freshness": 7,
+    "estimated_coverage_percent": 100,
+    "source_completion_100_percent": true
+  },
+  "source_coverage": [
+    {
+      "id": "CJEU_SANCTIONS_CASE_LAW",
+      "name": "CJEU sanctions case law",
+      "expected_records": 1,
+      "actual_records": 1,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "EU_RESTRICTIVE_MEASURES",
+      "name": "EU restrictive measures legal texts",
+      "expected_records": 483,
+      "actual_records": 483,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "UK_OFSI_REGULATIONS",
+      "name": "UK OFSI sanctions regulations",
+      "expected_records": 246,
+      "actual_records": 246,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "UN_COMMITTEE_GUIDANCE",
+      "name": "UN sanctions committee guidance",
+      "expected_records": 69,
+      "actual_records": 69,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "UN_SC_RESOLUTIONS",
+      "name": "UN Security Council sanctions resolutions",
+      "expected_records": 254,
+      "actual_records": 254,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "US_BIS_EAR",
+      "name": "US BIS Export Administration Regulations",
+      "expected_records": 51,
+      "actual_records": 51,
+      "completion": 1,
+      "completion_percent": 100
+    },
+    {
+      "id": "US_OFAC_EXECUTIVE_ORDERS",
+      "name": "US OFAC executive orders and guidance",
+      "expected_records": 176,
+      "actual_records": 176,
+      "completion": 1,
+      "completion_percent": 100
+    }
+  ]
+}

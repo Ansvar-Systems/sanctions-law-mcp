@@ -1,0 +1,58 @@
+name: sanctions-law-mcp
+description: MCP server providing sanctions legal-basis search across UN, EU, US, UK, and CJEU sources
+version: "0.1.0"
+runtime: node
+entrypoint: dist/index.js
+
+transport:
+  type: stdio
+
+metadata:
+  author: Ansvar Systems AB
+  license: Apache-2.0
+  homepage: https://github.com/Ansvar-Systems/sanctions-law-mcp
+  documentation: https://github.com/Ansvar-Systems/sanctions-law-mcp#readme
+  tags:
+    - sanctions
+    - legal
+    - compliance
+    - aml
+    - export-control
+  category: legal
+  languages:
+    - en
+  node_version: ">=18"
+
+tools:
+  - name: search_sanctions_law
+    description: Search sanctions provisions and guidance using full-text retrieval
+
+  - name: get_provision
+    description: Get a sanctions provision by source and item identifier
+
+  - name: get_sanctions_regime
+    description: Retrieve sanctions regime metadata and legal basis
+
+  - name: get_executive_order
+    description: Retrieve executive order details and related legal authority
+
+  - name: check_cyber_sanctions
+    description: Check cyber-related sanctions regimes, executive orders, and provisions
+
+  - name: get_delisting_procedure
+    description: Retrieve delisting and reconsideration procedures
+
+  - name: get_export_control
+    description: Retrieve export-control provisions tied to sanctions compliance
+
+  - name: search_sanctions_case_law
+    description: Search sanctions case law from CJEU and General Court records
+
+  - name: list_sources
+    description: List source inventory, coverage, and freshness metadata
+
+  - name: about
+    description: Return server identity, scope, and data totals
+
+  - name: check_data_freshness
+    description: Compute freshness status and stale-source indicators
