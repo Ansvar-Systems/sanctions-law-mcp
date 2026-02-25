@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-02-24",
+  "generated_on": "2026-02-25",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -17000,8 +17000,8 @@
       "parent": "uksi/2020/1591",
       "kind": "order_provision",
       "regime_id": null,
-      "issued_on": "2026-02-06",
-      "url": "https://www.legislation.gov.uk/uksi/2020/1591/2020-12-31/data.htm",
+      "issued_on": "2026-02-24",
+      "url": "https://www.legislation.gov.uk/uksi/2020/1591/2025-12-11/data.htm",
       "topics": [
         "sanctions",
         "travel_ban"
@@ -17053,8 +17053,8 @@
       "parent": "uksi/2020/1587",
       "kind": "order_provision",
       "regime_id": null,
-      "issued_on": "2026-02-10",
-      "url": "https://www.legislation.gov.uk/uksi/2020/1587/2020-12-31/data.htm",
+      "issued_on": "2026-02-24",
+      "url": "https://www.legislation.gov.uk/uksi/2020/1587/2025-12-11/data.htm",
       "topics": [
         "sanctions",
         "travel_ban"
@@ -17226,8 +17226,8 @@
       "parent": "uksi/2020/1561",
       "kind": "order_provision",
       "regime_id": "UN_DPRK_1718",
-      "issued_on": "2026-02-10",
-      "url": "https://www.legislation.gov.uk/uksi/2020/1561/2020-12-31/data.htm",
+      "issued_on": "2026-02-24",
+      "url": "https://www.legislation.gov.uk/uksi/2020/1561/2025-12-11/data.htm",
       "topics": [
         "sanctions",
         "travel_ban",
@@ -17364,8 +17364,8 @@
       "parent": "uksi/2020/1287",
       "kind": "order_provision",
       "regime_id": null,
-      "issued_on": "2026-02-10",
-      "url": "https://www.legislation.gov.uk/uksi/2020/1287/2020-11-11/data.htm",
+      "issued_on": "2026-02-24",
+      "url": "https://www.legislation.gov.uk/uksi/2020/1287/2025-12-11/data.htm",
       "topics": [
         "sanctions",
         "travel_ban"
@@ -25055,23 +25055,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0109"
     },
     {
-      "id": "CJEU_62015TA0433",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-433/15",
-      "title": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
-      "decision_date": "2019-06-05",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0433"
-    },
-    {
       "id": "CJEU_62017TB0143",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25098,6 +25081,23 @@
       "summary": "Case T-141/17 R: Order of the President of the General Court of 23 March 2017 — Amisi Kumba v Council (Application for interim measures — Restrictive measures — Democratic Republic of the Congo — Application for suspension of operation of a measure — No urgency)",
       "keywords": [],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62017TB0141"
+    },
+    {
+      "id": "CJEU_62015TA0433",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-433/15",
+      "title": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
+      "decision_date": "2019-06-05",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0433"
     },
     {
       "id": "CJEU_62022TA0091",
@@ -25181,20 +25181,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TA0186"
     },
     {
-      "id": "CJEU_62012TA0203",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-203/12",
-      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "decision_date": "2014-07-03",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
-    },
-    {
       "id": "CJEU_62022TA0095",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25225,6 +25211,20 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0096"
+    },
+    {
+      "id": "CJEU_62012TA0203",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-203/12",
+      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "decision_date": "2014-07-03",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
     },
     {
       "id": "CJEU_62013CA0585",
@@ -25293,6 +25293,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0406_RES"
     },
     {
+      "id": "CJEU_62022TB0117",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-117/22",
+      "title": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
+      "decision_date": "2023-02-01",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TB0117"
+    },
+    {
       "id": "CJEU_62021TA0108",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25307,20 +25321,6 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0108"
-    },
-    {
-      "id": "CJEU_62022TB0117",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-117/22",
-      "title": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
-      "decision_date": "2023-02-01",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TB0117"
     },
     {
       "id": "CJEU_62015TJ0405",
@@ -25370,22 +25370,6 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62024TJ0414_RES"
-    },
-    {
-      "id": "CJEU_62014TB0737",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-737/14",
-      "title": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
-      "decision_date": "2017-09-28",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0737"
     },
     {
       "id": "CJEU_62021TA0104",
@@ -25452,6 +25436,22 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0106"
     },
     {
+      "id": "CJEU_62014TB0737",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-737/14",
+      "title": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
+      "decision_date": "2017-09-28",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0737"
+    },
+    {
       "id": "CJEU_62011TO0572",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25468,6 +25468,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0572"
     },
     {
+      "id": "CJEU_62011TB0531",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-531/11",
+      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "decision_date": "2012-06-21",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
+    },
+    {
       "id": "CJEU_62014TA0737",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25482,20 +25496,6 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0737"
-    },
-    {
-      "id": "CJEU_62011TB0531",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-531/11",
-      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "decision_date": "2012-06-21",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
     },
     {
       "id": "CJEU_62011TB0218",
@@ -25694,6 +25694,22 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TA0035"
     },
     {
+      "id": "CJEU_62025TB0582",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-582/25",
+      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "decision_date": "2026-01-08",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
+    },
+    {
       "id": "CJEU_62022TA0208",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25887,6 +25903,22 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0433"
     },
     {
+      "id": "CJEU_62012TA0163",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-163/12",
+      "title": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
+      "decision_date": "2015-05-12",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0163"
+    },
+    {
       "id": "CJEU_62016CJ0430",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -25995,23 +26027,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0735"
     },
     {
-      "id": "CJEU_62010TJ0035",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-35/10",
-      "title": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
-      "decision_date": "2013-09-06",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TJ0035"
-    },
-    {
       "id": "CJEU_62015TA0332",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -26029,27 +26044,27 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0332"
     },
     {
-      "id": "CJEU_62011TO0384",
+      "id": "CJEU_62010TJ0035",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
-      "case_reference": "T-384/11",
-      "title": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
-      "decision_date": "2011-09-28",
+      "case_reference": "T-35/10",
+      "title": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
+      "decision_date": "2013-09-06",
       "regime_id": null,
       "delisting_related": true,
       "outcome": "See official case text for operative outcome.",
-      "summary": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
+      "summary": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
       "keywords": [
         "asset_freeze",
         "iran"
       ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0384"
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TJ0035"
     }
   ],
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-02-24",
+      "last_checked": "2026-02-25",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26057,7 +26072,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-02-24",
+      "last_checked": "2026-02-25",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26065,7 +26080,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-02-24",
+      "last_checked": "2026-02-25",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26073,7 +26088,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-02-24",
+      "last_checked": "2026-02-25",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26081,7 +26096,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-02-24",
+      "last_checked": "2026-02-25",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26089,19 +26104,19 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-02-24",
-      "last_updated": "2026-02-18",
+      "last_checked": "2026-02-25",
+      "last_updated": "2026-02-24",
       "check_frequency": "daily",
       "status": "fresh",
       "notes": "Full-corpus ingestion completed with 293 source records."
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-02-24",
-      "last_updated": "2025-12-03",
+      "last_checked": "2026-02-25",
+      "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 124 source records."
+      "notes": "Full-corpus ingestion completed with 125 source records."
     }
   ]
 }

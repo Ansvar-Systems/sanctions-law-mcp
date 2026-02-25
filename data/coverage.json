@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "mcp": "sanctions-law-mcp",
   "package": "@ansvar/sanctions-law-mcp",
-  "generated_on": "2026-02-24",
+  "generated_on": "2026-02-25",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
@@ -12,7 +12,7 @@
     "executive_orders": 174,
     "delisting_procedures": 4,
     "export_controls": 97,
-    "sanctions_case_law": 123,
+    "sanctions_case_law": 124,
     "source_freshness": 7,
     "estimated_coverage_percent": 100,
     "source_completion_100_percent": true
