@@ -4,7 +4,8 @@
  * Provides professional-use warnings, data freshness tracking, and source authority disclosure.
  */
 
-import type { Database } from '@ansvar/mcp-sqlite';
+import type BetterSqlite3 from 'better-sqlite3';
+type Database = BetterSqlite3.Database;
 
 export interface ResponseMetadata {
   /** Data freshness information */
