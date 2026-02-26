@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-02-25",
+  "generated_on": "2026-02-26",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -17436,8 +17436,8 @@
       "parent": "uksi/2020/1282",
       "kind": "order_provision",
       "regime_id": null,
-      "issued_on": "2026-02-10",
-      "url": "https://www.legislation.gov.uk/uksi/2020/1282/2020-11-11/data.htm",
+      "issued_on": "2026-02-25",
+      "url": "https://www.legislation.gov.uk/uksi/2020/1282/2025-12-11/data.htm",
       "topics": [
         "sanctions",
         "travel_ban"
@@ -26044,27 +26044,27 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0332"
     },
     {
-      "id": "CJEU_62010TJ0035",
+      "id": "CJEU_62011TO0384",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
-      "case_reference": "T-35/10",
-      "title": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
-      "decision_date": "2013-09-06",
+      "case_reference": "T-384/11",
+      "title": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
+      "decision_date": "2011-09-28",
       "regime_id": null,
       "delisting_related": true,
       "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the General Court (Fourth Chamber), 6 September 2013. Bank Melli Iran v Council of the European Union. Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
+      "summary": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
       "keywords": [
         "asset_freeze",
         "iran"
       ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TJ0035"
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0384"
     }
   ],
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26072,7 +26072,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26080,7 +26080,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26088,7 +26088,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26096,7 +26096,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26104,15 +26104,15 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-02-25",
-      "last_updated": "2026-02-24",
+      "last_checked": "2026-02-26",
+      "last_updated": "2026-02-25",
       "check_frequency": "daily",
       "status": "fresh",
       "notes": "Full-corpus ingestion completed with 293 source records."
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-02-25",
+      "last_checked": "2026-02-26",
       "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",

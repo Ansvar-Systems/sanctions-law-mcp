@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "mcp": "sanctions-law-mcp",
   "package": "@ansvar/sanctions-law-mcp",
-  "generated_on": "2026-02-25",
+  "generated_on": "2026-02-26",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
