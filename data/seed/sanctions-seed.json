@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-02-26",
+  "generated_on": "2026-02-27",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -25213,20 +25213,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0096"
     },
     {
-      "id": "CJEU_62012TA0203",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-203/12",
-      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "decision_date": "2014-07-03",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
-    },
-    {
       "id": "CJEU_62013CA0585",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -25242,6 +25228,20 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62013CA0585"
+    },
+    {
+      "id": "CJEU_62012TA0203",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-203/12",
+      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "decision_date": "2014-07-03",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
     },
     {
       "id": "CJEU_62014TA0798",
@@ -25512,23 +25512,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0218"
     },
     {
-      "id": "CJEU_62018CJ0732",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "Court of Justice",
-      "case_reference": "C-732/18 P",
-      "title": "Judgment of the Court (Seventh Chamber) of 17 September 2020. PAO Rosneft Oil Company and Others v Council of the European Union. Appeal – Restrictive measures adopted in view of the actions of the Russian Federation destabilising the situation in Ukraine – List of persons, entities and bodies subject to freezing of funds and economic resources – Listing of the appellants in the list of the entities to which restrictive measures apply. Case C-732/18 P.",
-      "decision_date": "2020-09-17",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the Court (Seventh Chamber) of 17 September 2020. PAO Rosneft Oil Company and Others v Council of the European Union. Appeal – Restrictive measures adopted in view of the actions of the Russian Federation destabilising the situation in Ukraine – List of persons, entities and bodies subject to freezing of funds and economic resources – Listing of the appellants in the list of the entities to which restrictive measures apply. Case C-732/18 P.",
-      "keywords": [
-        "asset_freeze",
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CJ0732"
-    },
-    {
       "id": "CJEU_62015TJ0406",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25544,6 +25527,23 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0406"
+    },
+    {
+      "id": "CJEU_62018CJ0732",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "Court of Justice",
+      "case_reference": "C-732/18 P",
+      "title": "Judgment of the Court (Seventh Chamber) of 17 September 2020. PAO Rosneft Oil Company and Others v Council of the European Union. Appeal – Restrictive measures adopted in view of the actions of the Russian Federation destabilising the situation in Ukraine – List of persons, entities and bodies subject to freezing of funds and economic resources – Listing of the appellants in the list of the entities to which restrictive measures apply. Case C-732/18 P.",
+      "decision_date": "2020-09-17",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Judgment of the Court (Seventh Chamber) of 17 September 2020. PAO Rosneft Oil Company and Others v Council of the European Union. Appeal – Restrictive measures adopted in view of the actions of the Russian Federation destabilising the situation in Ukraine – List of persons, entities and bodies subject to freezing of funds and economic resources – Listing of the appellants in the list of the entities to which restrictive measures apply. Case C-732/18 P.",
+      "keywords": [
+        "asset_freeze",
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CJ0732"
     },
     {
       "id": "CJEU_62011TA0420",
@@ -26064,7 +26064,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26072,7 +26072,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26080,7 +26080,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26088,7 +26088,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26096,7 +26096,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26104,7 +26104,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2026-02-25",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26112,7 +26112,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-02-26",
+      "last_checked": "2026-02-27",
       "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",
