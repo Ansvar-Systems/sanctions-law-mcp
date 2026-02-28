@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-02-27",
+  "generated_on": "2026-02-28",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -4906,6 +4906,1255 @@
         "symbol": "S/RES/2274",
         "origin_id": "S/RES/2274_(2016)_9496449",
         "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_GUIDELINES",
+      "title": "Committee Guidelines | United Nations Security Council",
+      "text": "Committee Guidelines | United Nations Security Council Committee Guidelines | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/guidelines",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/guidelines",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_COMMITTEE_GUIDELINES",
+      "title": "Руководящие п",
+      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/committee-guidelines",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/committee-guidelines",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267",
+      "title": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin",
+      "text": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals, grou",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://www.un.org/securitycouncil/sanctions/1267",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/1267",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751",
+      "title": "Security Council Committee pursuant to resolution 751 (1992) concerning Somalia | United Nations Sec",
+      "text": "Security Council Committee pursuant to resolution 751 (1992) concerning Somalia | United Nations Sec Security Council Committee pursuant to resolution 751 (1992) concerning Somalia | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Languag",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1992-01-01",
+      "url": "https://www.un.org/securitycouncil/sanctions/751",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_GUIDELINES",
+      "title": "Руководящие п",
+      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_INFORMATION",
+      "title": "Sanctions | United Nations Security Council",
+      "text": "Sanctions | United Nations Security Council Sanctions | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security Co",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/information",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/information",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_MATERIALS",
+      "title": "Sanctions List Materials | United Nations Security Council",
+      "text": "Sanctions List Materials | United Nations Security Council Sanctions List Materials | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nati",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/materials",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/materials",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267_AQ_SANCTIONS_LIST",
+      "title": "Sanctions List Materials | United Nations Security Council",
+      "text": "Sanctions List Materials | United Nations Security Council Sanctions List Materials | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nati",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_1999_92_6739938",
+      "title": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL",
+      "text": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL UNITEDUNITED SNATIONSNATIONS Security Council Distr. GENERAL S/1999/92 29 January 1999 ORIGINAL: ENGLISH NOTE BY THE PRESIDENT OF THE SECURITY COUNCIL: WORK OF THE SANCTIONS COMMITTEES I. The President of the Security Council wishes to state that all members of the Security Council have indicated their agreement that the following practical proposals will be used to improve the work of the sa",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/1999/92&i=S/1999/92_6739938",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "S/1999/92_6739938",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_DOCUMENTS",
+      "title": "Selected Documents | United Nations Security Council",
+      "text": "Selected Documents | United Nations Security Council Selected Documents | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Se",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/documents",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/documents",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_NOTICES",
+      "title": "Implementation Assistance Notices | United Nations Security Council",
+      "text": "Implementation Assistance Notices | United Nations Security Council Implementation Assistance Notices | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español Un",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/notices",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/notices",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_RESOLUTIONS",
+      "title": "Resolutions | United Nations Security Council",
+      "text": "Resolutions | United Nations Security Council Resolutions | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/resolutions",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/resolutions",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267_RESOLUTIONS",
+      "title": "Resolutions | United Nations Security Council",
+      "text": "Resolutions | United Nations Security Council Resolutions | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/1267/resolutions",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/resolutions",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_MEDIA_UN_ORG_PHOTO_EN_ASSET_OUN7_OUN7262166",
+      "title": "Security Council Discusses Work of Iran Sanctions Committee",
+      "text": "Security Council Discusses Work of Iran Sanctions Committee A wide view of the Security Council during its meeting on non-proliferation to discuss the work of the Iran Sanctions Committee from December 2013 to March 2014.",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2013-01-01",
+      "url": "https://media.un.org/photo/en/asset/oun7/oun7262166",
+      "topics": [
+        "sanctions",
+        "iran"
+      ],
+      "metadata": {
+        "origin_id": "https://media.un.org/photo/en/asset/oun7/oun7262166",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_MEDIA_UN_ORG_PHOTO_EN_ASSET_OUN7_OUN7262219",
+      "title": "Security Council Discusses Work of Iran Sanctions Committee",
+      "text": "Security Council Discusses Work of Iran Sanctions Committee A wide view of the Security Council during its meeting on non-proliferation to discuss the work of the Iran Sanctions Committee from December 2013 to March 2014.",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2013-01-01",
+      "url": "https://media.un.org/photo/en/asset/oun7/oun7262219",
+      "topics": [
+        "sanctions",
+        "iran"
+      ],
+      "metadata": {
+        "origin_id": "https://media.un.org/photo/en/asset/oun7/oun7262219",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_MEDIA_UN_ORG_PHOTO_EN_ASSET_OUN7_OUN7778037",
+      "title": "Press Conference by Security Council Sanctions Committee Chairman",
+      "text": "Press Conference by Security Council Sanctions Committee Chairman Heraldo Muñoz, Chairman of the 1267 Committee and Permanent Representative of Chile to the United Nations, briefing correspondents at today's press conference. He said that resolution 1526 (",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://media.un.org/photo/en/asset/oun7/oun7778037",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://media.un.org/photo/en/asset/oun7/oun7778037",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_MATERIALS_SUMMARIES",
+      "title": "Narrative Summaries of Reasons for Listing | United Nations Security Council",
+      "text": "Narrative Summaries of Reasons for Listing | United Nations Security Council Narrative Summaries of Reasons for Listing | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский E",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/materials/summaries",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/materials/summaries",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_ANNUAL_REPORTS",
+      "title": "Annual Reports | United Nations Security Council",
+      "text": "Annual Reports | United Nations Security Council Annual Reports | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Securi",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/annual-reports",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/annual-reports",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_PRESS_RELEASES",
+      "title": "Press Releases | United Nations Security Council",
+      "text": "Press Releases | United Nations Security Council Press Releases | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Securi",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/press-releases",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/press-releases",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_HUMANITARIAN_REPORTS",
+      "title": "Humanitarian Reports | United Nations Security Council",
+      "text": "Humanitarian Reports | United Nations Security Council Humanitarian Reports | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/humanitarian-reports",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/humanitarian-reports",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267_AQ_SANCTIONS_LIST_SUMMARIES",
+      "title": "Narrative Summaries of Reasons for Listing | United Nations Security Council",
+      "text": "Narrative Summaries of Reasons for Listing | United Nations Security Council Narrative Summaries of Reasons for Listing | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский E",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/summaries",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/summaries",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_TRAVEL_EXEMPTIONS",
+      "title": "Travel exemptions in effect | United Nations Security Council",
+      "text": "Travel exemptions in effect | United Nations Security Council Travel exemptions in effect | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United N",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/exemptions/travel-exemptions",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/travel-exemptions",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Travel Ban | United Nations Security Council",
+      "text": "Travel Ban | United Nations Security Council Travel Ban | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security C",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/exemptions/travel-ban",
+      "topics": [
+        "sanctions",
+        "travel_ban"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_WORK_AND_MANDATE",
+      "title": "Work and Mandate | United Nations Security Council",
+      "text": "Work and Mandate | United Nations Security Council Work and Mandate | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Secu",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Arms Embargo | United Nations Security Council",
+      "text": "Arms Embargo | United Nations Security Council Arms Embargo | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_NEWS_UN_ORG_EN_STORY_2003_10_84252",
+      "title": "Afghanistan at 'critical juncture', UN sanctions committee chairman says",
+      "text": "Afghanistan at 'critical juncture', UN sanctions committee chairman says Ambassador Heraldo Munoz of Chile told a press briefing at UN Headquarters in New York that he and the members of the UN 's sanctions committee \"feel that Afghanistan is at a critical junctu",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://news.un.org/en/story/2003/10/84252",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://news.un.org/en/story/2003/10/84252",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO_ASSETSFRE",
+      "title": "Assets Freeze | United Nations Security Council",
+      "text": "Assets Freeze | United Nations Security Council Assets Freeze | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Securit",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo/assetsfreeze",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo/assetsfreeze",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_MATERIALS_PROCEDURES_FOR_LISTING",
+      "title": "Procedures for Listing | United Nations Security Council",
+      "text": "Procedures for Listing | United Nations Security Council Procedures for Listing | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/materials/procedures-for-listing",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/materials/procedures-for-listing",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267_AQ_SANCTIONS_LIST_PROCEDURES_FOR",
+      "title": "Procedures for Listing | United Nations Security Council",
+      "text": "Procedures for Listing | United Nations Security Council Procedures for Listing | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/procedures-for-listing",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/procedures-for-listing",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_MATERIALS_PROCEDURES_FOR_DELISTIN",
+      "title": "Procedures for Delisting | United Nations Security Council",
+      "text": "Procedures for Delisting | United Nations Security Council Procedures for Delisting | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nati",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/materials/procedures-for-delisting",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/materials/procedures-for-delisting",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_WORK_AND_MANDATE_REPORTS",
+      "title": "Reports | United Nations Security Council",
+      "text": "Reports | United Nations Security Council Reports | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security Coun",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate/reports",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate/reports",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO_IED_COMPO",
+      "title": "IED Components Ban | United Nations Security Council",
+      "text": "IED Components Ban | United Nations Security Council IED Components Ban | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Se",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo/ied-component-ban",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo/ied-component-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_WORK_AND_MANDATE_APPOINTMENTS_OF_",
+      "title": "Appointments of the experts | United Nations Security Council",
+      "text": "Appointments of the experts | United Nations Security Council Appointments of the experts | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United N",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate/appointments-of-the-experts",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/sanctions/751/work-and-mandate/appointments-of-the-experts",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16092_DOC_HTM",
+      "title": "Security Council Sanctions Committee concerning South Sudan Draws Attention to Panel of Experts’ Recommendation on Arms Embargo Exemption Procedures | Meetings Coverage and Press Releases",
+      "text": "Security Council Sanctions Committee concerning South Sudan Draws Attention to Panel of Experts’ Recommendation on Arms Embargo Exemption Procedures | Meetings Coverage and Press Releases On 25November2024, in accordance with paragraph18 of resolution2731(2024),the Panel of Experts on South Sudan transmitted its interim report to the President of the Security Council (documen",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": "2024-01-01",
+      "url": "https://press.un.org/en/2025/sc16092.doc.htm",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16092.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_EXEMPTIONS",
+      "title": "Действующие исключе",
+      "text": "Действующие исключе Действующие исключения из запрета на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОП",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-exemptions",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-exemptions",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_EXEMPTIONS_",
+      "title": "Действующие исключе",
+      "text": "Действующие исключе Действующие исключения из запрета на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОП",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-exemptions-in-effect",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-exemptions-in-effect",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_ASSETSFREEZE",
+      "title": "Замораживание",
+      "text": "Замораживание Замораживание активов | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/assetsfreeze",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/assetsfreeze",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_ASSETSFREEZE",
+      "title": "Замораживание",
+      "text": "Замораживание Замораживание активов | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/assetsfreeze",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/assetsfreeze",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "武器禁",
+      "text": "武器禁 武器禁运 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation 语言",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "旅行禁",
+      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ES_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU",
+      "text": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Skip to main content Bienvenidos a las Naciones Unidas Toggle navigation Idioma: عربي 中文 English Français Русский Español CONSEJO DE SEGURID",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Изъятия из оруж",
+      "text": "Изъятия из оруж Изъятия из оружейных эмбарго | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Sear",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
+      "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
+      "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/6 (SECT.3)/ADD.8&i=A/79/6 (SECT.3)/ADD.8_1728666202372",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/6 (SECT.3)/ADD.8_1728666202372",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_7_ADD_20_1731529252553",
+      "title": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm",
+      "text": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm United Nations A/79/7/Add.20 General Assembly Distr.: General 6 November 2024 Original: English 24-20507 (E) 121124 *2420507* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political mis",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/7/ADD.20&i=A/79/7/ADD.20_1731529252553",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/7/ADD.20_1731529252553",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_2025_71_REV_1_1739909881528",
+      "title": "S/2025/71/REV.1 - Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, g",
+      "text": "S/2025/71/REV.1 - Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, g United Nations S/2025/71/Rev.1 Security Council Distr.: General 6 February 2025 Original: English 25-02529 (E) 180225 *2502529* Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/2025/71/REV.1&i=S/2025/71/REV.1_1739909881528",
+      "topics": [],
+      "metadata": {
+        "origin_id": "S/2025/71/REV.1_1739909881528",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_AQ_SANCTIONS_LIST_PROCEDURES_",
+      "title": "Процедуры исключ",
+      "text": "Процедуры исключ Процедуры исключения из перечня | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН S",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/procedures-for-delisting",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/procedures-for-delisting",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_MATERIALS_PROCEDURES_FOR_LISTI",
+      "title": "Процедуры включ",
+      "text": "Процедуры включ Процедуры включения в перечень | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Se",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/procedures-for-listing",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/procedures-for-listing",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_2021_849_5633251",
+      "title": "S/2021/849 - LETTER DATED 5 OCTOBER 2021 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE PURSUANT TO RESOLUTION 751 (1992) CONCERNING SOMALIA ADDRESSED TO THE PRESIDENT OF THE SECURITY COUNCIL",
+      "text": "S/2021/849 - LETTER DATED 5 OCTOBER 2021 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE PURSUANT TO RESOLUTION 751 (1992) CONCERNING SOMALIA ADDRESSED TO THE PRESIDENT OF THE SECURITY COUNCIL United Nations S/2021/849 Security Council Distr.: General 6 October 2021 Original: English 21-12712 (E) 151021 *2112712* Letter dated 5 October 2021 from the Chair of the Security Council Committee pursuant to resolution 751 (1992) concerning Somalia addressed to the President of the Security Council On behalf of the Security Council Committee pursuan",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2021-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/2021/849&i=S/2021/849_5633251",
+      "topics": [],
+      "metadata": {
+        "origin_id": "S/2021/849_5633251",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_MATERIALS_SUMMARIES",
+      "title": "Резюме с изложением осн",
+      "text": "Резюме с изложением осн Резюме с изложением оснований для включения в перечень | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español С",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/summaries",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/summaries",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_AQ_SANCTIONS_LIST_SUMMARIES",
+      "title": "Резюме с изложением осн",
+      "text": "Резюме с изложением осн Резюме с изложением оснований для включения в перечень | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español С",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_2018_120_2824478",
+      "title": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH",
+      "text": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH United Nations S/2018/120 Security Council Distr.: General 14 February 2018 Original: English 18-02494 (E) 200218 *1802494* Letter dated 14 February 2018 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2018-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/2018/120&i=S/2018/120_2824478",
+      "topics": [],
+      "metadata": {
+        "origin_id": "S/2018/120_2824478",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_NOTICES",
+      "title": "Уведомление об о",
+      "text": "Уведомление об о Уведомление об оказании помощи | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Se",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/notices",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/notices",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_MATERIALS_PROCEDURES_FOR_DELIS",
+      "title": "Процедуры исключ",
+      "text": "Процедуры исключ Процедуры исключения из перечня | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН S",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/procedures-for-delisting",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/materials/procedures-for-delisting",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16136_DOC_HTM",
+      "title": "Security Council 1518 Sanctions Committee Amends One Entry on Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council 1518 Sanctions Committee Amends One Entry on Its Sanctions List | Meetings Coverage and Press Releases On 5August2025, the Security Council Committee established pursuant to resolution1518(2003) enacted the amendments, specified with strikethrough and/or underline, in the entry below on its S",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2003-01-01",
+      "url": "https://press.un.org/en/2025/sc16136.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16136.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16113_DOC_HTM",
+      "title": "Security Council 2653 Sanctions Committee Adds 2 Entries to Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council 2653 Sanctions Committee Adds 2 Entries to Its Sanctions List | Meetings Coverage and Press Releases On 8 July 2025, the Security Council Committee established pursuant to resolution 2653 (2022) approved the addition of the entries specified below to its Sanctions List of individuals and en",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16113.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16113.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_2025_482_1753824842393",
+      "title": "S/2025/482 - Letter dated 21 July 2025 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, groups, undertakings and entities addressed to the President of t",
+      "text": "S/2025/482 - Letter dated 21 July 2025 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, groups, undertakings and entities addressed to the President of t United Nations S/2025/482 Security Council Distr.: General 24 July 2025 Original: English 25-10785 (E) 290725 *2510785* Letter dated 21 July 2025 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals,",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/2025/482&i=S/2025/482_1753824842393",
+      "topics": [],
+      "metadata": {
+        "origin_id": "S/2025/482_1753824842393",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2024_SC15953_DOC_HTM",
+      "title": "Security Council 1970 Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council 1970 Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases On 20December 2024, the Security Council Committee established pursuant to resolution 1970 (2011) the following entry from its Sanctions List of individuals and entities. : 1: ABDELHAFIZ 2:",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1970-01-01",
+      "url": "https://press.un.org/en/2024/sc15953.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2024/sc15953.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16240_DOC_HTM",
+      "title": "Security Council 1518 Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council 1518 Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases On 9December 2025, the Security Council Committee established pursuant to resolution 1518 (2003) removed the following entry from its Sanctions List of individuals and entities. : 1: MUNIR 2",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16240.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16240.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2026_SC16303_DOC_HTM",
+      "title": "Security Council 1591 Sanctions Committee Adds Four Entries to Its Sanctions List | UN Meetings Coverage and Press Releases",
+      "text": "Security Council 1591 Sanctions Committee Adds Four Entries to Its Sanctions List | UN Meetings Coverage and Press Releases On 24February 2026, the Security Council Committee established pursuant to resolution 1591 (2005) concerning the Sudanapproved of the entries specified below to its Sanctions List of individ",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2026-01-01",
+      "url": "https://press.un.org/en/2026/sc16303.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2026/sc16303.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16017_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Twelve Entries on Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Twelve Entries on Its Sanctions List | Meetings Coverage and Press Releases On 11March 2025, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, underta",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16017.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16017.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16155_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Five Entries on Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Five Entries on Its Sanctions List | Meetings Coverage and Press Releases On 22 August 2025, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, under",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16155.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16155.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16188_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Two Entries on Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Two Entries on Its Sanctions List | Meetings Coverage and Press Releases On 6 October 2025, the Security Council Committee pursuant to resolutions1267(1999), 1989(2011) and 2253(2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, undertaki",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16188.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16188.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16088_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Adds One Entry to Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Adds One Entry to Its Sanctions List | Meetings Coverage and Press Releases On 16June2025, the Security Council Committee pursuant toresolutions1267(1999), 1989(2011) and2253(2015) concerning ISIL(Da'esh), Al-Qaida and associated individuals, groups, undertakings an",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://press.un.org/en/2025/sc16088.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16088.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16193_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends One Entry to Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends One Entry to Its Sanctions List | Meetings Coverage and Press Releases On 16October 2025, the Security Council Committee pursuant to resolutions 1267(1999), 1989(2011) and 2253(2015) concerning ISIL (Da'esh), Al-Qaida and associated individuals, groups, underta",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16193.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16193.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16197_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends One Entry to Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends One Entry to Its Sanctions List | Meetings Coverage and Press Releases On 21 October 2025, the Security Council Committee pursuant to resolutions1267(1999), 1989(2011) and 2253(2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, undertak",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16197.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16197.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16003_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases On 21 February 2025, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, und",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://press.un.org/en/2025/sc16003.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16003.doc.htm",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_PRESS_UN_ORG_EN_2025_SC16082_DOC_HTM",
+      "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases",
+      "text": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Removes One Entry from Its Sanctions List | Meetings Coverage and Press Releases On 9June2025, the Security Council Committee pursuant to resolutions1267(1999), 1989(2011) and2253(2015) concerning ISIL (Da'esh), AlQaida and associated individuals, groups, undertakings an",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://press.un.org/en/2025/sc16082.doc.htm",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://press.un.org/en/2025/sc16082.doc.htm",
+        "data_source": "UN"
       }
     },
     {
@@ -25213,6 +26462,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0096"
     },
     {
+      "id": "CJEU_62012TA0203",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-203/12",
+      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "decision_date": "2014-07-03",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
+    },
+    {
       "id": "CJEU_62013CA0585",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -25228,20 +26491,6 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62013CA0585"
-    },
-    {
-      "id": "CJEU_62012TA0203",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-203/12",
-      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "decision_date": "2014-07-03",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
     },
     {
       "id": "CJEU_62014TA0798",
@@ -25468,20 +26717,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0572"
     },
     {
-      "id": "CJEU_62011TB0531",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-531/11",
-      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "decision_date": "2012-06-21",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
-    },
-    {
       "id": "CJEU_62014TA0737",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25496,6 +26731,20 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0737"
+    },
+    {
+      "id": "CJEU_62011TB0531",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-531/11",
+      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "decision_date": "2012-06-21",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
     },
     {
       "id": "CJEU_62011TB0218",
@@ -26064,7 +27313,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26072,15 +27321,15 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-02-27",
-      "last_updated": "2018-06-01",
+      "last_checked": "2026-02-28",
+      "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 1 source records."
+      "notes": "Full-corpus ingestion completed with 70 source records."
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26088,7 +27337,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26096,7 +27345,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26104,7 +27353,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2026-02-25",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26112,7 +27361,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-02-27",
+      "last_checked": "2026-02-28",
       "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",
