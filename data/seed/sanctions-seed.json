@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-02-28",
+  "generated_on": "2026-03-01",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -4946,6 +4946,24 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_GUIDELINES",
+      "title": "Руководящие п",
+      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267",
       "title": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin",
       "text": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals, grou",
@@ -4982,24 +5000,6 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_GUIDELINES",
-      "title": "Руководящие п",
-      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_INFORMATION",
       "title": "Sanctions | United Nations Security Council",
       "text": "Sanctions | United Nations Security Council Sanctions | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security Co",
@@ -5014,6 +5014,24 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/information",
         "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_1999_92_6739938",
+      "title": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL",
+      "text": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL UNITEDUNITED SNATIONSNATIONS Security Council Distr. GENERAL S/1999/92 29 January 1999 ORIGINAL: ENGLISH NOTE BY THE PRESIDENT OF THE SECURITY COUNCIL: WORK OF THE SANCTIONS COMMITTEES I. The President of the Security Council wishes to state that all members of the Security Council have indicated their agreement that the following practical proposals will be used to improve the work of the sa",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/1999/92&i=S/1999/92_6739938",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "S/1999/92_6739938",
+        "data_source": "ODS"
       }
     },
     {
@@ -5050,24 +5068,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_S_1999_92_6739938",
-      "title": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL",
-      "text": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL UNITEDUNITED SNATIONSNATIONS Security Council Distr. GENERAL S/1999/92 29 January 1999 ORIGINAL: ENGLISH NOTE BY THE PRESIDENT OF THE SECURITY COUNCIL: WORK OF THE SANCTIONS COMMITTEES I. The President of the Security Council wishes to state that all members of the Security Council have indicated their agreement that the following practical proposals will be used to improve the work of the sa",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": "1999-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=S/1999/92&i=S/1999/92_6739938",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "S/1999/92_6739938",
-        "data_source": "ODS"
       }
     },
     {
@@ -5308,6 +5308,24 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_NEWS_UN_ORG_EN_STORY_2003_10_84252",
+      "title": "Afghanistan at 'critical juncture', UN sanctions committee chairman says",
+      "text": "Afghanistan at 'critical juncture', UN sanctions committee chairman says Ambassador Heraldo Munoz of Chile told a press briefing at UN Headquarters in New York that he and the members of the UN 's sanctions committee \"feel that Afghanistan is at a critical junctu",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://news.un.org/en/story/2003/10/84252",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://news.un.org/en/story/2003/10/84252",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
       "title": "Travel Ban | United Nations Security Council",
       "text": "Travel Ban | United Nations Security Council Travel Ban | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security C",
@@ -5359,24 +5377,6 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_NEWS_UN_ORG_EN_STORY_2003_10_84252",
-      "title": "Afghanistan at 'critical juncture', UN sanctions committee chairman says",
-      "text": "Afghanistan at 'critical juncture', UN sanctions committee chairman says Ambassador Heraldo Munoz of Chile told a press briefing at UN Headquarters in New York that he and the members of the UN 's sanctions committee \"feel that Afghanistan is at a critical junctu",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://news.un.org/en/story/2003/10/84252",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://news.un.org/en/story/2003/10/84252",
         "data_source": "UN"
       }
     },
@@ -26717,6 +26717,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0572"
     },
     {
+      "id": "CJEU_62011TB0531",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-531/11",
+      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "decision_date": "2012-06-21",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
+    },
+    {
       "id": "CJEU_62014TA0737",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -26731,20 +26745,6 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0737"
-    },
-    {
-      "id": "CJEU_62011TB0531",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-531/11",
-      "title": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "decision_date": "2012-06-21",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-531/11: Order of the General Court of 21 June 2012 — Hamas v Council (Annulment action — Restrictive measures with a view to combating terrorism — Lis pendens)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0531"
     },
     {
       "id": "CJEU_62011TB0218",
@@ -27313,7 +27313,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27321,7 +27321,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27329,7 +27329,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27337,7 +27337,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27345,7 +27345,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27353,7 +27353,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-02-25",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27361,7 +27361,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-02-28",
+      "last_checked": "2026-03-01",
       "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",
