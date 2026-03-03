@@ -77,6 +77,10 @@ USER nodejs
 # Production mode
 ENV NODE_ENV=production
 
+# HTTP port for Streamable HTTP transport
+ENV PORT=3000
+EXPOSE 3000
+
 # Database path (matches the COPY destination above)
 # Customize this env var name for your server
 ENV SANCTIONS_LAW_DB_PATH=/app/data/database.db
@@ -84,7 +88,8 @@ ENV SANCTIONS_LAW_DB_PATH=/app/data/database.db
 # ───────────────────────────────────────────────────────────────────────────
 # ENTRY POINT
 # ───────────────────────────────────────────────────────────────────────────
-# MCP servers use stdio, so we run node directly
+# HTTP Streamable transport for Docker/Azure deployment
+# For stdio transport, use: node dist/index.js
 # ───────────────────────────────────────────────────────────────────────────
 
-CMD ["node", "dist/index.js"]
+CMD ["node", "dist/http-server.js"]
