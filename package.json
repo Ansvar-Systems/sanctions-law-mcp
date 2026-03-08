@@ -36,7 +36,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.25.3",
     "better-sqlite3": "^12.6.2",
-    "node-sqlite3-wasm": "^0.8.53"
+    "node-sqlite3-wasm": "^0.8.54"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
