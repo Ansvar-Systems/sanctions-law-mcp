@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-03-08",
+  "generated_on": "2026-03-09",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -4946,24 +4946,6 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_GUIDELINES",
-      "title": "Руководящие п",
-      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_1267",
       "title": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin",
       "text": "Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concernin Security Council Committee pursuant to resolutions 1267 (1999) 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals, grou",
@@ -5000,6 +4982,24 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_GUIDELINES",
+      "title": "Руководящие п",
+      "text": "Руководящие п Руководящие принципы | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/guidelines",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_INFORMATION",
       "title": "Sanctions | United Nations Security Council",
       "text": "Sanctions | United Nations Security Council Sanctions | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security Co",
@@ -5014,24 +5014,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/information",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_S_1999_92_6739938",
-      "title": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL",
-      "text": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL UNITEDUNITED SNATIONSNATIONS Security Council Distr. GENERAL S/1999/92 29 January 1999 ORIGINAL: ENGLISH NOTE BY THE PRESIDENT OF THE SECURITY COUNCIL: WORK OF THE SANCTIONS COMMITTEES I. The President of the Security Council wishes to state that all members of the Security Council have indicated their agreement that the following practical proposals will be used to improve the work of the sa",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": "1999-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=S/1999/92&i=S/1999/92_6739938",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "S/1999/92_6739938",
-        "data_source": "ODS"
       }
     },
     {
@@ -5068,6 +5050,24 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list",
         "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_1999_92_6739938",
+      "title": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL",
+      "text": "S/1999/92 - WORK OF THE SANCTIONS COMMITTEES : NOTE / BY THE PRESIDENT OF THE SECURITY COUNCIL UNITEDUNITED SNATIONSNATIONS Security Council Distr. GENERAL S/1999/92 29 January 1999 ORIGINAL: ENGLISH NOTE BY THE PRESIDENT OF THE SECURITY COUNCIL: WORK OF THE SANCTIONS COMMITTEES I. The President of the Security Council wishes to state that all members of the Security Council have indicated their agreement that the following practical proposals will be used to improve the work of the sa",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "1999-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/1999/92&i=S/1999/92_6739938",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "S/1999/92_6739938",
+        "data_source": "ODS"
       }
     },
     {
@@ -5308,24 +5308,6 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_NEWS_UN_ORG_EN_STORY_2003_10_84252",
-      "title": "Afghanistan at 'critical juncture', UN sanctions committee chairman says",
-      "text": "Afghanistan at 'critical juncture', UN sanctions committee chairman says Ambassador Heraldo Munoz of Chile told a press briefing at UN Headquarters in New York that he and the members of the UN 's sanctions committee \"feel that Afghanistan is at a critical junctu",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://news.un.org/en/story/2003/10/84252",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://news.un.org/en/story/2003/10/84252",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
       "title": "Travel Ban | United Nations Security Council",
       "text": "Travel Ban | United Nations Security Council Travel Ban | United Nations Security Council Skip to main content Welcome to the United Nations Toggle navigation Language: عربي 中文 English Français Русский Español United Nations Security C",
@@ -5377,6 +5359,24 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_NEWS_UN_ORG_EN_STORY_2003_10_84252",
+      "title": "Afghanistan at 'critical juncture', UN sanctions committee chairman says",
+      "text": "Afghanistan at 'critical juncture', UN sanctions committee chairman says Ambassador Heraldo Munoz of Chile told a press briefing at UN Headquarters in New York that he and the members of the UN 's sanctions committee \"feel that Afghanistan is at a critical junctu",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://news.un.org/en/story/2003/10/84252",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://news.un.org/en/story/2003/10/84252",
         "data_source": "UN"
       }
     },
@@ -5602,6 +5602,117 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "武器禁",
+      "text": "武器禁 武器禁运 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation 语言",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "旅行禁",
+      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ES_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU",
+      "text": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Skip to main content Bienvenidos a las Naciones Unidas Toggle navigation Idioma: عربي 中文 English Français Русский Español CONSEJO DE SEGURID",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Изъятия из оруж",
+      "text": "Изъятия из оруж Изъятия из оружейных эмбарго | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Sear",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
       "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
       "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
@@ -5636,60 +5747,6 @@
       "metadata": {
         "origin_id": "A/79/7/ADD.20_1731529252553",
         "data_source": "ODS"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
-      "title": "Запрет на пое",
-      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "旅行禁",
-      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "Запрет на пое",
-      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
-        "data_source": "UN"
       }
     },
     {
@@ -5795,22 +5852,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_S_2018_120_2824478",
-      "title": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH",
-      "text": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH United Nations S/2018/120 Security Council Distr.: General 14 February 2018 Original: English 18-02494 (E) 200218 *1802494* Letter dated 14 February 2018 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": "2018-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=S/2018/120&i=S/2018/120_2824478",
-      "topics": [],
-      "metadata": {
-        "origin_id": "S/2018/120_2824478",
-        "data_source": "ODS"
       }
     },
     {
@@ -26704,23 +26745,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TB0218"
     },
     {
-      "id": "CJEU_62015TJ0406",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-406/15",
-      "title": "Judgment of the General Court (First Chamber) of 2 July 2019. Fereydoun Mahmoudian v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation",
-      "decision_date": "2019-07-02",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the General Court (First Chamber) of 2 July 2019. Fereydoun Mahmoudian v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0406"
-    },
-    {
       "id": "CJEU_62018CJ0732",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -26736,6 +26760,23 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CJ0732"
+    },
+    {
+      "id": "CJEU_62015TJ0406",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-406/15",
+      "title": "Judgment of the General Court (First Chamber) of 2 July 2019. Fereydoun Mahmoudian v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation",
+      "decision_date": "2019-07-02",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Judgment of the General Court (First Chamber) of 2 July 2019. Fereydoun Mahmoudian v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0406"
     },
     {
       "id": "CJEU_62011TA0420",
@@ -26886,22 +26927,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TA0035"
     },
     {
-      "id": "CJEU_62025TB0582",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-582/25",
-      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "decision_date": "2026-01-08",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
-    },
-    {
       "id": "CJEU_62022TA0208",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -26916,6 +26941,22 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
+    },
+    {
+      "id": "CJEU_62025TB0582",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-582/25",
+      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "decision_date": "2026-01-08",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
     },
     {
       "id": "CJEU_62019TB0057",
@@ -27095,22 +27136,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0433"
     },
     {
-      "id": "CJEU_62012TA0163",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-163/12",
-      "title": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
-      "decision_date": "2015-05-12",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0163"
-    },
-    {
       "id": "CJEU_62016CJ0430",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -27125,6 +27150,22 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62016CJ0430"
+    },
+    {
+      "id": "CJEU_62012TA0163",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-163/12",
+      "title": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
+      "decision_date": "2015-05-12",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-163/12: Judgment of the General Court of 12 May 2015 — Ternavsky v Council (Common foreign and security policy — Restrictive measures against Belarus — Freezing of funds — Restrictions on entry into and transit through the territory of the European Union — Error of assessment)",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0163"
     },
     {
       "id": "CJEU_62022TB0116",
@@ -27256,7 +27297,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27264,15 +27305,15 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 67 source records."
+      "notes": "Full-corpus ingestion completed with 69 source records."
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27280,7 +27321,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27288,7 +27329,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27296,7 +27337,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-03-06",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27304,7 +27345,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-03-08",
+      "last_checked": "2026-03-09",
       "last_updated": "2026-01-08",
       "check_frequency": "monthly",
       "status": "fresh",
