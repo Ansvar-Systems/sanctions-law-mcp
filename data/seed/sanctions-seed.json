@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-03-10",
+  "generated_on": "2026-03-11",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -25694,22 +25694,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TA0035"
     },
     {
-      "id": "CJEU_62025TB0582",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-582/25",
-      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "decision_date": "2026-01-08",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
-    },
-    {
       "id": "CJEU_62022TA0208",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25724,6 +25708,22 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
+    },
+    {
+      "id": "CJEU_62025TB0582",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-582/25",
+      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "decision_date": "2026-01-08",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
     },
     {
       "id": "CJEU_62019TB0057",
@@ -25789,6 +25789,22 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0734"
+    },
+    {
+      "id": "CJEU_62024TA0176",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-176/24",
+      "title": "Case T-176/24: Judgment of the General Court of 14 January 2026 – Al Akhras v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds – Restrictions on entry into the territory of the Member States – Lists of persons, entities and bodies subject to the freezing of funds",
+      "decision_date": "2026-01-14",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-176/24: Judgment of the General Court of 14 January 2026 – Al Akhras v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds – Restrictions on entry into the territory of the Member States – Lists of persons, entities and bodies subject to the freezing of funds",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62024TA0176"
     },
     {
       "id": "CJEU_62022TJ0209",
@@ -26042,29 +26058,12 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0332"
-    },
-    {
-      "id": "CJEU_62011TO0384",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-384/11",
-      "title": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
-      "decision_date": "2011-09-28",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Order of the General Court (judge hearing the application for interim measures ) of 28 September 2011. Safa Nicu Sepahan Co. v Council of the European Union. Application for interim measures - Common foreign and security policy - Restrictive measures adopted against Iran with the aim of preventing nuclear proliferation - Freezing of funds and economic resources - Application for interim measures - Lack of urgency. Case T-384/11 R.",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TO0384"
     }
   ],
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26072,7 +26071,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26080,7 +26079,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26088,7 +26087,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2026-02-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26096,7 +26095,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26104,7 +26103,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-03-10",
+      "last_checked": "2026-03-11",
       "last_updated": "2026-03-06",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26112,8 +26111,8 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-03-10",
-      "last_updated": "2026-01-08",
+      "last_checked": "2026-03-11",
+      "last_updated": "2026-01-14",
       "check_frequency": "monthly",
       "status": "fresh",
       "notes": "Full-corpus ingestion completed with 125 source records."
