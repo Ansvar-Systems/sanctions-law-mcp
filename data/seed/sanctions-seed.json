@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-03-12",
+  "generated_on": "2026-03-13",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -5602,44 +5602,6 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
-      "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
-      "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "delisting_guidance",
-      "regime_id": null,
-      "issued_on": "2025-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=A/79/6 (SECT.3)/ADD.8&i=A/79/6 (SECT.3)/ADD.8_1728666202372",
-      "topics": [
-        "sanctions",
-        "delisting"
-      ],
-      "metadata": {
-        "origin_id": "A/79/6 (SECT.3)/ADD.8_1728666202372",
-        "data_source": "ODS"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_A_79_7_ADD_20_1731529252553",
-      "title": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm",
-      "text": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm United Nations A/79/7/Add.20 General Assembly Distr.: General 6 November 2024 Original: English 24-20507 (E) 121124 *2420507* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political mis",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "delisting_guidance",
-      "regime_id": null,
-      "issued_on": "2025-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=A/79/7/ADD.20&i=A/79/7/ADD.20_1731529252553",
-      "topics": [
-        "sanctions",
-        "delisting"
-      ],
-      "metadata": {
-        "origin_id": "A/79/7/ADD.20_1731529252553",
-        "data_source": "ODS"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
       "title": "Запрет на пое",
       "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
@@ -5653,42 +5615,6 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "旅行禁",
-      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "Запрет на пое",
-      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
         "data_source": "UN"
       }
     },
@@ -5708,6 +5634,24 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "旅行禁",
+      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
         "data_source": "UN"
       }
     },
@@ -5747,6 +5691,62 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
         "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
+      "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
+      "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/6 (SECT.3)/ADD.8&i=A/79/6 (SECT.3)/ADD.8_1728666202372",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/6 (SECT.3)/ADD.8_1728666202372",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_7_ADD_20_1731529252553",
+      "title": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm",
+      "text": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm United Nations A/79/7/Add.20 General Assembly Distr.: General 6 November 2024 Original: English 24-20507 (E) 121124 *2420507* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political mis",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/7/ADD.20&i=A/79/7/ADD.20_1731529252553",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/7/ADD.20_1731529252553",
+        "data_source": "ODS"
       }
     },
     {
@@ -5852,22 +5852,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_S_2018_120_2824478",
-      "title": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH",
-      "text": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH United Nations S/2018/120 Security Council Distr.: General 14 February 2018 Original: English 18-02494 (E) 200218 *1802494* Letter dated 14 February 2018 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": "2018-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=S/2018/120&i=S/2018/120_2824478",
-      "topics": [],
-      "metadata": {
-        "origin_id": "S/2018/120_2824478",
-        "data_source": "ODS"
       }
     },
     {
@@ -26337,23 +26321,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0109"
     },
     {
-      "id": "CJEU_62015TA0433",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-433/15",
-      "title": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
-      "decision_date": "2019-06-05",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0433"
-    },
-    {
       "id": "CJEU_62017TB0143",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -26380,6 +26347,23 @@
       "summary": "Case T-141/17 R: Order of the President of the General Court of 23 March 2017 — Amisi Kumba v Council (Application for interim measures — Restrictive measures — Democratic Republic of the Congo — Application for suspension of operation of a measure — No urgency)",
       "keywords": [],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62017TB0141"
+    },
+    {
+      "id": "CJEU_62015TA0433",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-433/15",
+      "title": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
+      "decision_date": "2019-06-05",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-433/15: Judgment of the General Court of 5 June 2019 — Bank Saderat v Council (Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Restriction on admission to the territory of the Member States — Compensation for the damage allegedly sustained by the applicant following",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0433"
     },
     {
       "id": "CJEU_62022TA0091",
@@ -26575,6 +26559,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0406_RES"
     },
     {
+      "id": "CJEU_62022TB0117",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-117/22",
+      "title": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
+      "decision_date": "2023-02-01",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TB0117"
+    },
+    {
       "id": "CJEU_62021TA0108",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -26589,20 +26587,6 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0108"
-    },
-    {
-      "id": "CJEU_62022TB0117",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-117/22",
-      "title": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
-      "decision_date": "2023-02-01",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-117/22 R: Order of the President of the General Court of 1 February 2023 — Grodno Azot and Khimvolokno Plant v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of the situation in Belarus — Application for suspension of operation of a measure — No urgency)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TB0117"
     },
     {
       "id": "CJEU_62015TJ0405",
@@ -26652,6 +26636,22 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62024TJ0414_RES"
+    },
+    {
+      "id": "CJEU_62014TB0737",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-737/14",
+      "title": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
+      "decision_date": "2017-09-28",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0737"
     },
     {
       "id": "CJEU_62021TA0104",
@@ -26716,22 +26716,6 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0106"
-    },
-    {
-      "id": "CJEU_62014TB0737",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-737/14",
-      "title": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
-      "decision_date": "2017-09-28",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-737/14 R: Order of the President of the General Court of 28 September 2017 — Vnesheconombank v Council (Application for interim measures — Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Application for the suspension of operation of measures — No urgency)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0737"
     },
     {
       "id": "CJEU_62011TO0572",
@@ -26976,22 +26960,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TA0035"
     },
     {
-      "id": "CJEU_62022TA0208",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-208/22",
-      "title": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
-      "decision_date": "2024-07-17",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
-    },
-    {
       "id": "CJEU_62025TB0582",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -27006,6 +26974,22 @@
         "russia"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
+    },
+    {
+      "id": "CJEU_62022TA0208",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-208/22",
+      "title": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
+      "decision_date": "2024-07-17",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
     },
     {
       "id": "CJEU_62019TB0057",
@@ -27345,7 +27329,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27353,15 +27337,15 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 70 source records."
+      "notes": "Full-corpus ingestion completed with 69 source records."
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27369,7 +27353,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-03-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27377,7 +27361,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27385,7 +27369,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-03-06",
       "check_frequency": "daily",
       "status": "fresh",
@@ -27393,7 +27377,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-03-12",
+      "last_checked": "2026-03-13",
       "last_updated": "2026-01-14",
       "check_frequency": "monthly",
       "status": "fresh",
