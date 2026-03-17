@@ -1,6 +1,6 @@
 # Data Coverage
 
-Generated baseline: 2026-03-16 (full-corpus mode)
+Generated baseline: 2026-03-17 (full-corpus mode)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-03-16",
+  "generated_on": "2026-03-17",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -24327,22 +24327,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TB0155"
     },
     {
-      "id": "CJEU_62022CA0524",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "Court of Justice",
-      "case_reference": "C-524/22 P",
-      "title": "Case C-524/22 P: Judgment of the Court (Sixth Chamber) of 11 January 2024 — Amer Foz v Council of the European Union (Appeal — Common foreign and security policy — Restrictive measures adopted against Syria — Measures directed against persons associated with persons and entities subject to restrictive measures — Lists of persons subject to the freezing of funds and economic resources — Proof that inclusion of the appellant’s name on those lists is well founded)",
-      "decision_date": "2024-01-11",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case C-524/22 P: Judgment of the Court (Sixth Chamber) of 11 January 2024 — Amer Foz v Council of the European Union (Appeal — Common foreign and security policy — Restrictive measures adopted against Syria — Measures directed against persons associated with persons and entities subject to restrictive measures — Lists of persons subject to the freezing of funds and economic resources — Proof that inclusion of the appellant’s name on those lists is well founded)",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022CA0524"
-    },
-    {
       "id": "CJEU_62013CC0585",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -24585,22 +24569,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62020TA0097"
     },
     {
-      "id": "CJEU_62022CJ0524",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "Court of Justice",
-      "case_reference": "C-524/22 P",
-      "title": "Judgment of the Court (Sixth Chamber) of 11 January 2024. Amer Foz v Council of the European Union. Appeal – Common foreign and security policy – Restrictive measures adopted against Syria – Measures directed against persons associated with persons and entities subject to restrictive measures – Lists of persons subject to the freezing of funds and economic resources – Proof that inclusion of the appellant’s name on those lists is well founded. Case C-524/22 P.",
-      "decision_date": "2024-01-11",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the Court (Sixth Chamber) of 11 January 2024. Amer Foz v Council of the European Union. Appeal – Common foreign and security policy – Restrictive measures adopted against Syria – Measures directed against persons associated with persons and entities subject to restrictive measures – Lists of persons subject to the freezing of funds and economic resources – Proof that inclusion of the appellant’s name on those lists is well founded. Case C-524/22 P.",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022CJ0524"
-    },
-    {
       "id": "CJEU_62012CO0168",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "Court of Justice",
@@ -24615,6 +24583,22 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012CO0168"
+    },
+    {
+      "id": "CJEU_62022CJ0524",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "Court of Justice",
+      "case_reference": "C-524/22 P",
+      "title": "Judgment of the Court (Sixth Chamber) of 11 January 2024. Amer Foz v Council of the European Union. Appeal – Common foreign and security policy – Restrictive measures adopted against Syria – Measures directed against persons associated with persons and entities subject to restrictive measures – Lists of persons subject to the freezing of funds and economic resources – Proof that inclusion of the appellant’s name on those lists is well founded. Case C-524/22 P.",
+      "decision_date": "2024-01-11",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Judgment of the Court (Sixth Chamber) of 11 January 2024. Amer Foz v Council of the European Union. Appeal – Common foreign and security policy – Restrictive measures adopted against Syria – Measures directed against persons associated with persons and entities subject to restrictive measures – Lists of persons subject to the freezing of funds and economic resources – Proof that inclusion of the appellant’s name on those lists is well founded. Case C-524/22 P.",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022CJ0524"
     },
     {
       "id": "CJEU_62015TJ0559",
@@ -24715,6 +24699,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TA0406"
     },
     {
+      "id": "CJEU_62023TA0089",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-89/23",
+      "title": "Case T-89/23: Judgment of the General Court of 10 July 2024 – Boshab v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in the Democratic Republic of the Congo – Freezing of assets – Restriction on admission to the territory of the Member States – Maintaining the applicant’s name on the lists",
+      "decision_date": "2024-07-10",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-89/23: Judgment of the General Court of 10 July 2024 – Boshab v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in the Democratic Republic of the Congo – Freezing of assets – Restriction on admission to the territory of the Member States – Maintaining the applicant’s name on the lists",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62023TA0089"
+    },
+    {
       "id": "CJEU_62012TA0275",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -24745,20 +24743,6 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0276"
-    },
-    {
-      "id": "CJEU_62023TA0089",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-89/23",
-      "title": "Case T-89/23: Judgment of the General Court of 10 July 2024 – Boshab v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in the Democratic Republic of the Congo – Freezing of assets – Restriction on admission to the territory of the Member States – Maintaining the applicant’s name on the lists",
-      "decision_date": "2024-07-10",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-89/23: Judgment of the General Court of 10 July 2024 – Boshab v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in the Democratic Republic of the Congo – Freezing of assets – Restriction on admission to the territory of the Member States – Maintaining the applicant’s name on the lists",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62023TA0089"
     },
     {
       "id": "CJEU_62020TB0714",
@@ -24862,6 +24846,23 @@
       "summary": "Case T-144/17 R: Order of the President of the General Court of 23 March 2017 — Numbi v Council (Application for interim measures — Restrictive measures — Democratic Republic of the Congo — Application for suspension of operation of a measure — No urgency)",
       "keywords": [],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62017TB0144"
+    },
+    {
+      "id": "CJEU_62015TJ0558",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-558/15",
+      "title": "Judgment of the General Court (First Chamber, Extended Composition) of 13 December 2018. Iran Insurance Company v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Inclusion and maintenance of the applicant’s name on the lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-558/15.",
+      "decision_date": "2018-12-13",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Judgment of the General Court (First Chamber, Extended Composition) of 13 December 2018. Iran Insurance Company v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against Iran — Freezing of funds — Inclusion and maintenance of the applicant’s name on the lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-558/15.",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0558"
     },
     {
       "id": "CJEU_62012CO0110",
@@ -25292,39 +25293,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CJ0729"
     },
     {
-      "id": "CJEU_62015TJ0405",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-405/15",
-      "title": "Judgment of the General Court (First Chamber) of 2 July 2019. Fulmen v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Compensation for the damage allegedly suffered following the inclusion and retention of the applicant’s name on lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-405/15.",
-      "decision_date": "2019-07-02",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Judgment of the General Court (First Chamber) of 2 July 2019. Fulmen v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Compensation for the damage allegedly suffered following the inclusion and retention of the applicant’s name on lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-405/15.",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0405"
-    },
-    {
-      "id": "CJEU_62018CA0729",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "Court of Justice",
-      "case_reference": "C-729/18 P",
-      "title": "Case C-729/18 P: Judgment of the Court (Seventh Chamber) of 25 June 2020 — VTB Bank PAO, formerly VTB Bank OAO v Council of the European Union, European Commission (Appeal — Restrictive measures adopted in view of the Russian Federation’s actions destabilising the situation in Ukraine — Inclusion of the appellant’s name on the list of entities to which restrictive measures apply — Principle of proportionality — Right to property — Right to carry on an economic activity)",
-      "decision_date": "2020-06-25",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case C-729/18 P: Judgment of the Court (Seventh Chamber) of 25 June 2020 — VTB Bank PAO, formerly VTB Bank OAO v Council of the European Union, European Commission (Appeal — Restrictive measures adopted in view of the Russian Federation’s actions destabilising the situation in Ukraine — Inclusion of the appellant’s name on the list of entities to which restrictive measures apply — Principle of proportionality — Right to property — Right to carry on an economic activity)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CA0729"
-    },
-    {
       "id": "CJEU_62022TB0117",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25370,6 +25338,39 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62021TA0108"
+    },
+    {
+      "id": "CJEU_62018CA0729",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "Court of Justice",
+      "case_reference": "C-729/18 P",
+      "title": "Case C-729/18 P: Judgment of the Court (Seventh Chamber) of 25 June 2020 — VTB Bank PAO, formerly VTB Bank OAO v Council of the European Union, European Commission (Appeal — Restrictive measures adopted in view of the Russian Federation’s actions destabilising the situation in Ukraine — Inclusion of the appellant’s name on the list of entities to which restrictive measures apply — Principle of proportionality — Right to property — Right to carry on an economic activity)",
+      "decision_date": "2020-06-25",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case C-729/18 P: Judgment of the Court (Seventh Chamber) of 25 June 2020 — VTB Bank PAO, formerly VTB Bank OAO v Council of the European Union, European Commission (Appeal — Restrictive measures adopted in view of the Russian Federation’s actions destabilising the situation in Ukraine — Inclusion of the appellant’s name on the list of entities to which restrictive measures apply — Principle of proportionality — Right to property — Right to carry on an economic activity)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018CA0729"
+    },
+    {
+      "id": "CJEU_62015TJ0405",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-405/15",
+      "title": "Judgment of the General Court (First Chamber) of 2 July 2019. Fulmen v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Compensation for the damage allegedly suffered following the inclusion and retention of the applicant’s name on lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-405/15.",
+      "decision_date": "2019-07-02",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Judgment of the General Court (First Chamber) of 2 July 2019. Fulmen v Council of the European Union. Non-contractual liability — Common foreign and security policy — Restrictive measures against the Islamic Republic of Iran — Freezing of funds — Compensation for the damage allegedly suffered following the inclusion and retention of the applicant’s name on lists of persons and entities subject to restrictive measures — Material damage — Non-material damage. Case T-405/15.",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62015TJ0405"
     },
     {
       "id": "CJEU_62014TB0737",
@@ -25643,6 +25644,23 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0092"
     },
     {
+      "id": "CJEU_62018TB0305",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-305/18",
+      "title": "Case T-305/18 R: Order of the President of the General Court of 28 November 2018 — Klyuyev v Council (Application for interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Ukraine — Freezing of funds — Application for suspension of operation of a measure — Prima facie case — No urgency)",
+      "decision_date": "2018-11-28",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-305/18 R: Order of the President of the General Court of 28 November 2018 — Klyuyev v Council (Application for interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Ukraine — Freezing of funds — Application for suspension of operation of a measure — Prima facie case — No urgency)",
+      "keywords": [
+        "asset_freeze",
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018TB0305"
+    },
+    {
       "id": "CJEU_62012TA0202",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25674,23 +25692,6 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62013TA0009"
-    },
-    {
-      "id": "CJEU_62018TB0305",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-305/18",
-      "title": "Case T-305/18 R: Order of the President of the General Court of 28 November 2018 — Klyuyev v Council (Application for interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Ukraine — Freezing of funds — Application for suspension of operation of a measure — Prima facie case — No urgency)",
-      "decision_date": "2018-11-28",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-305/18 R: Order of the President of the General Court of 28 November 2018 — Klyuyev v Council (Application for interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Ukraine — Freezing of funds — Application for suspension of operation of a measure — Prima facie case — No urgency)",
-      "keywords": [
-        "asset_freeze",
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018TB0305"
     },
     {
       "id": "CJEU_62010TA0035",
@@ -25726,6 +25727,22 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TB0057"
     },
     {
+      "id": "CJEU_62025TB0582",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-582/25",
+      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "decision_date": "2026-01-08",
+      "regime_id": "EU_RUSSIA_2014",
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
+    },
+    {
       "id": "CJEU_62019TB0137",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25740,6 +25757,22 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TB0137"
+    },
+    {
+      "id": "CJEU_62022TA0208",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-208/22",
+      "title": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
+      "decision_date": "2024-07-17",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
     },
     {
       "id": "CJEU_62011TA0008",
@@ -25757,38 +25790,6 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TA0008"
-    },
-    {
-      "id": "CJEU_62025TB0582",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-582/25",
-      "title": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "decision_date": "2026-01-08",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-582/25 R: Order of the President of the General Court of 8 January 2026 – Yamb v Council (Interim measures – Common foreign and security policy – Restrictive measures in view of Russia’s destabilising activities – Application for suspension of operation of a measure – Failure to comply with procedural requirements – Inadmissibility)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62025TB0582"
-    },
-    {
-      "id": "CJEU_62022TA0208",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-208/22",
-      "title": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
-      "decision_date": "2024-07-17",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-208/22: Judgment of the General Court of 17 July 2024 – Makhlouf v Council (Common foreign and security policy – Restrictive measures taken in view of the situation in Syria – Freezing of funds and economic resources – Restriction on entry into the territory of the Member States – List of persons, entities and bodies subject to the freezing",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TA0208"
     },
     {
       "id": "CJEU_62014TA0734",
@@ -25839,20 +25840,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62024TA0176"
     },
     {
-      "id": "CJEU_62014TB0532",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-532/14",
-      "title": "Case T-532/14 R: Order of the General Court of 20 August 2014 — Alsharghawi v Council (Interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Libya — List of persons and entities to which those measures apply — Application for suspension of operation — Lack of urgency — Weighing of interests)",
-      "decision_date": "2014-08-20",
-      "regime_id": null,
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-532/14 R: Order of the General Court of 20 August 2014 — Alsharghawi v Council (Interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Libya — List of persons and entities to which those measures apply — Application for suspension of operation — Lack of urgency — Weighing of interests)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0532"
-    },
-    {
       "id": "CJEU_62022TJ0209",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25867,6 +25854,20 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62022TJ0209"
+    },
+    {
+      "id": "CJEU_62014TB0532",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-532/14",
+      "title": "Case T-532/14 R: Order of the General Court of 20 August 2014 — Alsharghawi v Council (Interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Libya — List of persons and entities to which those measures apply — Application for suspension of operation — Lack of urgency — Weighing of interests)",
+      "decision_date": "2014-08-20",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-532/14 R: Order of the General Court of 20 August 2014 — Alsharghawi v Council (Interim measures — Common foreign and security policy — Restrictive measures taken in view of the situation in Libya — List of persons and entities to which those measures apply — Application for suspension of operation — Lack of urgency — Weighing of interests)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TB0532"
     },
     {
       "id": "CJEU_62022TJ0209_RES",
@@ -26079,7 +26080,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26087,7 +26088,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26095,7 +26096,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26103,7 +26104,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2026-03-11",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26111,7 +26112,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26119,7 +26120,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2026-03-06",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26127,7 +26128,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-03-16",
+      "last_checked": "2026-03-17",
       "last_updated": "2026-01-14",
       "check_frequency": "monthly",
       "status": "fresh",
