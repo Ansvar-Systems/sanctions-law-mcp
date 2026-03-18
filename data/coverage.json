@@ -2,13 +2,13 @@
   "schema_version": "1.1",
   "mcp": "sanctions-law-mcp",
   "package": "@ansvar/sanctions-law-mcp",
-  "generated_on": "2026-03-17",
+  "generated_on": "2026-03-18",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
     "sources": 7,
     "sanctions_regimes": 6,
-    "provisions": 1213,
+    "provisions": 961,
     "executive_orders": 175,
     "delisting_procedures": 4,
     "export_controls": 97,
@@ -53,8 +53,8 @@
     {
       "id": "UN_SC_RESOLUTIONS",
       "name": "UN Security Council sanctions resolutions",
-      "expected_records": 254,
-      "actual_records": 254,
+      "expected_records": 2,
+      "actual_records": 2,
       "completion": 1,
       "completion_percent": 100
     },
