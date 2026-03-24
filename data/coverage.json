@@ -2,13 +2,13 @@
   "schema_version": "1.1",
   "mcp": "sanctions-law-mcp",
   "package": "@ansvar/sanctions-law-mcp",
-  "generated_on": "2026-03-23",
+  "generated_on": "2026-03-24",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
     "sources": 7,
     "sanctions_regimes": 6,
-    "provisions": 1283,
+    "provisions": 962,
     "executive_orders": 176,
     "delisting_procedures": 4,
     "export_controls": 97,
@@ -45,16 +45,16 @@
     {
       "id": "UN_COMMITTEE_GUIDANCE",
       "name": "UN sanctions committee guidance",
-      "expected_records": 70,
-      "actual_records": 70,
+      "expected_records": 1,
+      "actual_records": 1,
       "completion": 1,
       "completion_percent": 100
     },
     {
       "id": "UN_SC_RESOLUTIONS",
       "name": "UN Security Council sanctions resolutions",
-      "expected_records": 254,
-      "actual_records": 254,
+      "expected_records": 2,
+      "actual_records": 2,
       "completion": 1,
       "completion_percent": 100
     },
