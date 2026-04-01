@@ -2,17 +2,17 @@
   "schema_version": "1.1",
   "mcp": "sanctions-law-mcp",
   "package": "@ansvar/sanctions-law-mcp",
-  "generated_on": "2026-03-31",
+  "generated_on": "2026-04-01",
   "mode": "full-corpus",
   "status": "implemented",
   "summary": {
     "sources": 7,
     "sanctions_regimes": 6,
-    "provisions": 1283,
+    "provisions": 1214,
     "executive_orders": 176,
     "delisting_procedures": 4,
     "export_controls": 97,
-    "sanctions_case_law": 123,
+    "sanctions_case_law": 121,
     "source_freshness": 7,
     "estimated_coverage_percent": 100,
     "source_completion_100_percent": true
@@ -45,8 +45,8 @@
     {
       "id": "UN_COMMITTEE_GUIDANCE",
       "name": "UN sanctions committee guidance",
-      "expected_records": 70,
-      "actual_records": 70,
+      "expected_records": 1,
+      "actual_records": 1,
       "completion": 1,
       "completion_percent": 100
     },
