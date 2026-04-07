@@ -5,6 +5,7 @@
  */
 import type { Tool } from '@modelcontextprotocol/sdk/types.js';
 
+import { buildCitation } from '../citation.js';
 import { about } from './about.js';
 import { checkCyberSanctions, type CheckCyberSanctionsInput } from './check-cyber-sanctions.js';
 import { checkDataFreshness, type CheckDataFreshnessInput } from './check-data-freshness.js';
@@ -189,12 +190,40 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
   switch (name) {
     case 'search_sanctions_law':
       return searchSanctionsLaw(db, args as unknown as SearchSanctionsLawInput);
-    case 'get_provision':
-      return getProvision(db, args as unknown as GetProvisionInput);
+    case 'get_provision': {
+      const provResult = await getProvision(db, args as unknown as GetProvisionInput);
+      if (provResult) {
+        return {
+          ...provResult,
+          _citation: buildCitation(
+            `${provResult.source_name ?? provResult.source_id} ${provResult.item_id}`,
+            provResult.title || `${provResult.source_id} ${provResult.item_id}`,
+            'get_provision',
+            { source_id: provResult.source_id, item_id: provResult.item_id },
+            provResult.official_url || undefined,
+          ),
+        };
+      }
+      return provResult;
+    }
     case 'get_sanctions_regime':
       return getSanctionsRegime(db, args as unknown as GetSanctionsRegimeInput);
-    case 'get_executive_order':
-      return getExecutiveOrder(db, args as unknown as GetExecutiveOrderInput);
+    case 'get_executive_order': {
+      const eoResult = await getExecutiveOrder(db, args as unknown as GetExecutiveOrderInput);
+      if (eoResult) {
+        return {
+          ...eoResult,
+          _citation: buildCitation(
+            eoResult.order_number,
+            eoResult.title || eoResult.order_number,
+            'get_executive_order',
+            { order_number: eoResult.order_number },
+            eoResult.official_url || undefined,
+          ),
+        };
+      }
+      return eoResult;
+    }
     case 'check_cyber_sanctions':
       return checkCyberSanctions(db, args as unknown as CheckCyberSanctionsInput);
     case 'get_delisting_procedure':
