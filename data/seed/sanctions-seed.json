@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-04-06",
+  "generated_on": "2026-04-07",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -25163,22 +25163,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62017TB0141"
     },
     {
-      "id": "CJEU_62023TA0193",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-193/23",
-      "title": "Case T-193/23: Judgment of the General Court of 15 January 2025 – MegaFon v Council (Common foreign and security policy – Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine – Lists of persons, entities and bodies subject to restrictive measures – Inclusion and maintenance of the applicant’s name on the lists – Right to be heard – Obligation to state reasons – Error of assessment – Proportionality – Freedom to conduct a business – Action for annulment)",
-      "decision_date": "2025-01-15",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-193/23: Judgment of the General Court of 15 January 2025 – MegaFon v Council (Common foreign and security policy – Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine – Lists of persons, entities and bodies subject to restrictive measures – Inclusion and maintenance of the applicant’s name on the lists – Right to be heard – Obligation to state reasons – Error of assessment – Proportionality – Freedom to conduct a business – Action for annulment)",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62023TA0193"
-    },
-    {
       "id": "CJEU_62022TA0091",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25228,6 +25212,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TA0186"
     },
     {
+      "id": "CJEU_62012TA0203",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-203/12",
+      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "decision_date": "2014-07-03",
+      "regime_id": null,
+      "delisting_related": false,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
+      "keywords": [],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
+    },
+    {
       "id": "CJEU_62014TA0790",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25244,18 +25242,20 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0790"
     },
     {
-      "id": "CJEU_62012TA0203",
+      "id": "CJEU_62014TA0798",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
-      "case_reference": "T-203/12",
-      "title": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "decision_date": "2014-07-03",
-      "regime_id": null,
+      "case_reference": "T-798/14",
+      "title": "Case T-798/14: Judgment of the General Court of 13 September 2018 — DenizBank v Council (Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Inclusion of the name of the entity owning the applicant in the list of entities to which the restrictive measures apply — Obligation to state reasons — Rights of the defence — Right to effective judicial protection — EU-Turkey Association Agreement — Fundamental rights — Proportionality)",
+      "decision_date": "2018-09-13",
+      "regime_id": "EU_RUSSIA_2014",
       "delisting_related": false,
       "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-203/12: Judgment of the General Court of 3 July 2014 — Alchaar v Council (Common foreign and security policy — Restrictive measures taken against Syria — Entry of an individual on the lists of persons subject to restrictive measures — Links with the regime — Rights of the defence — Right to a fair hearing — Obligation to state reasons — Burden of proof — Right to effective judicial protection — Proportionality — Right to property — Right to privacy)",
-      "keywords": [],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012TA0203"
+      "summary": "Case T-798/14: Judgment of the General Court of 13 September 2018 — DenizBank v Council (Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Inclusion of the name of the entity owning the applicant in the list of entities to which the restrictive measures apply — Obligation to state reasons — Rights of the defence — Right to effective judicial protection — EU-Turkey Association Agreement — Fundamental rights — Pr…",
+      "keywords": [
+        "russia"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0798"
     },
     {
       "id": "CJEU_62022TA0095",
@@ -25305,22 +25305,6 @@
         "iran"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62013CA0585"
-    },
-    {
-      "id": "CJEU_62014TA0798",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-798/14",
-      "title": "Case T-798/14: Judgment of the General Court of 13 September 2018 — DenizBank v Council (Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Inclusion of the name of the entity owning the applicant in the list of entities to which the restrictive measures apply — Obligation to state reasons — Rights of the defence — Right to effective judicial protection — EU-Turkey Association Agreement — Fundamental rights — Proportionality)",
-      "decision_date": "2018-09-13",
-      "regime_id": "EU_RUSSIA_2014",
-      "delisting_related": false,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-798/14: Judgment of the General Court of 13 September 2018 — DenizBank v Council (Common foreign and security policy — Restrictive measures adopted in view of Russia’s actions destabilising the situation in Ukraine — Inclusion of the name of the entity owning the applicant in the list of entities to which the restrictive measures apply — Obligation to state reasons — Rights of the defence — Right to effective judicial protection — EU-Turkey Association Agreement — Fundamental rights — Pr…",
-      "keywords": [
-        "russia"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62014TA0798"
     },
     {
       "id": "CJEU_62018CJ0729",
@@ -25740,39 +25724,6 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62010TA0035"
     },
     {
-      "id": "CJEU_62019TB0057",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-57/19",
-      "title": "Case T-57/19: Order of the General Court of 11 September 2019 — Makhlouf v Council (Action for compensation — Common foreign and security policy — Restrictive measures taken against Syria — Freezing of funds — Lack of competence)",
-      "decision_date": "2019-09-11",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-57/19: Order of the General Court of 11 September 2019 — Makhlouf v Council (Action for compensation — Common foreign and security policy — Restrictive measures taken against Syria — Freezing of funds — Lack of competence)",
-      "keywords": [
-        "asset_freeze"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TB0057"
-    },
-    {
-      "id": "CJEU_62011TA0008",
-      "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "court": "General Court",
-      "case_reference": "T-8/11",
-      "title": "Case T-8/11: Judgment of the General Court of 16 September 2013 — Bank Kargoshaei and Others v Council (Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
-      "decision_date": "2013-09-16",
-      "regime_id": null,
-      "delisting_related": true,
-      "outcome": "See official case text for operative outcome.",
-      "summary": "Case T-8/11: Judgment of the General Court of 16 September 2013 — Bank Kargoshaei and Others v Council (Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
-      "keywords": [
-        "asset_freeze",
-        "iran"
-      ],
-      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TA0008"
-    },
-    {
       "id": "CJEU_62018TB0305",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25790,6 +25741,22 @@
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62018TB0305"
     },
     {
+      "id": "CJEU_62019TB0057",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-57/19",
+      "title": "Case T-57/19: Order of the General Court of 11 September 2019 — Makhlouf v Council (Action for compensation — Common foreign and security policy — Restrictive measures taken against Syria — Freezing of funds — Lack of competence)",
+      "decision_date": "2019-09-11",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-57/19: Order of the General Court of 11 September 2019 — Makhlouf v Council (Action for compensation — Common foreign and security policy — Restrictive measures taken against Syria — Freezing of funds — Lack of competence)",
+      "keywords": [
+        "asset_freeze"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TB0057"
+    },
+    {
       "id": "CJEU_62019TB0137",
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
       "court": "General Court",
@@ -25804,6 +25771,23 @@
         "asset_freeze"
       ],
       "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62019TB0137"
+    },
+    {
+      "id": "CJEU_62011TA0008",
+      "source_id": "CJEU_SANCTIONS_CASE_LAW",
+      "court": "General Court",
+      "case_reference": "T-8/11",
+      "title": "Case T-8/11: Judgment of the General Court of 16 September 2013 — Bank Kargoshaei and Others v Council (Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
+      "decision_date": "2013-09-16",
+      "regime_id": null,
+      "delisting_related": true,
+      "outcome": "See official case text for operative outcome.",
+      "summary": "Case T-8/11: Judgment of the General Court of 16 September 2013 — Bank Kargoshaei and Others v Council (Common foreign and security policy — Restrictive measures against Iran with the aim of preventing nuclear proliferation — Freezing of funds — Obligation to state reasons — Rights of the defence — Right to effective judicial protection",
+      "keywords": [
+        "asset_freeze",
+        "iran"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62011TA0008"
     },
     {
       "id": "CJEU_62014TA0734",
@@ -26126,7 +26110,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26134,7 +26118,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26142,7 +26126,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26150,7 +26134,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2026-03-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26158,7 +26142,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26166,7 +26150,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2026-03-27",
       "check_frequency": "daily",
       "status": "fresh",
@@ -26174,11 +26158,11 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-04-06",
+      "last_checked": "2026-04-07",
       "last_updated": "2026-01-14",
       "check_frequency": "monthly",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 125 source records."
+      "notes": "Full-corpus ingestion completed with 124 source records."
     }
   ]
 }
