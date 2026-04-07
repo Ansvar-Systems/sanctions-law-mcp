@@ -188,8 +188,19 @@ export const TOOLS: Tool[] = [
  */
 export async function callTool(db: any, name: string, args: Record<string, unknown>): Promise<unknown> {
   switch (name) {
-    case 'search_sanctions_law':
-      return searchSanctionsLaw(db, args as unknown as SearchSanctionsLawInput);
+    case 'search_sanctions_law': {
+      const searchResults = await searchSanctionsLaw(db, args as unknown as SearchSanctionsLawInput);
+      return searchResults.map((r: any) => ({
+        ...r,
+        _citation: buildCitation(
+          `${r.source_name ?? r.source_id} ${r.item_id}`,
+          r.title || `${r.source_id} ${r.item_id}`,
+          'get_provision',
+          { source_id: r.source_id, item_id: r.item_id },
+          r.official_url || undefined,
+        ),
+      }));
+    }
     case 'get_provision': {
       const provResult = await getProvision(db, args as unknown as GetProvisionInput);
       if (provResult) {
@@ -206,8 +217,19 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
       }
       return provResult;
     }
-    case 'get_sanctions_regime':
-      return getSanctionsRegime(db, args as unknown as GetSanctionsRegimeInput);
+    case 'get_sanctions_regime': {
+      const regimeResults = await getSanctionsRegime(db, args as unknown as GetSanctionsRegimeInput);
+      return regimeResults.map((r: any) => ({
+        ...r,
+        _citation: buildCitation(
+          r.id,
+          r.name || r.id,
+          'get_sanctions_regime',
+          { regime_id: r.id },
+          r.official_url || undefined,
+        ),
+      }));
+    }
     case 'get_executive_order': {
       const eoResult = await getExecutiveOrder(db, args as unknown as GetExecutiveOrderInput);
       if (eoResult) {
@@ -224,14 +246,61 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
       }
       return eoResult;
     }
-    case 'check_cyber_sanctions':
-      return checkCyberSanctions(db, args as unknown as CheckCyberSanctionsInput);
-    case 'get_delisting_procedure':
-      return getDelistingProcedure(db, args as unknown as GetDelistingProcedureInput);
-    case 'get_export_control':
-      return getExportControl(db, args as unknown as GetExportControlInput);
-    case 'search_sanctions_case_law':
-      return searchSanctionsCaseLaw(db, args as unknown as SearchSanctionsCaseLawInput);
+    case 'check_cyber_sanctions': {
+      const cyberResult = await checkCyberSanctions(db, args as unknown as CheckCyberSanctionsInput);
+      return {
+        ...cyberResult,
+        regimes: (cyberResult as any).regimes?.map((r: any) => ({
+          ...r,
+          _citation: buildCitation(
+            r.regime_id,
+            r.name || r.regime_id,
+            'get_sanctions_regime',
+            { regime_id: r.regime_id },
+            r.official_url || undefined,
+          ),
+        })),
+      };
+    }
+    case 'get_delisting_procedure': {
+      const dpResults = await getDelistingProcedure(db, args as unknown as GetDelistingProcedureInput);
+      return dpResults.map((r: any) => ({
+        ...r,
+        _citation: buildCitation(
+          r.id,
+          `Delisting procedure — ${r.regime_name || r.regime_id}`,
+          'get_delisting_procedure',
+          { procedure_id: r.id },
+          r.application_url || undefined,
+        ),
+      }));
+    }
+    case 'get_export_control': {
+      const ecResults = await getExportControl(db, args as unknown as GetExportControlInput);
+      return ecResults.map((r: any) => ({
+        ...r,
+        _citation: buildCitation(
+          `${r.jurisdiction} ${r.section}`,
+          r.title || `${r.instrument} ${r.section}`,
+          'get_export_control',
+          { jurisdiction: r.jurisdiction, section: r.section },
+          r.official_url || undefined,
+        ),
+      }));
+    }
+    case 'search_sanctions_case_law': {
+      const clResults = await searchSanctionsCaseLaw(db, args as unknown as SearchSanctionsCaseLawInput);
+      return clResults.map((r: any) => ({
+        ...r,
+        _citation: buildCitation(
+          r.case_reference,
+          r.title || r.case_reference,
+          'search_sanctions_case_law',
+          { query: r.case_reference },
+          r.official_url || undefined,
+        ),
+      }));
+    }
     case 'list_sources':
       return listSources(db, args as unknown as ListSourcesInput);
     case 'about':
