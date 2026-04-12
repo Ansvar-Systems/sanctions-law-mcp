@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-04-11",
+  "generated_on": "2026-04-12",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -5602,6 +5602,44 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
+      "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
+      "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/6 (SECT.3)/ADD.8&i=A/79/6 (SECT.3)/ADD.8_1728666202372",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/6 (SECT.3)/ADD.8_1728666202372",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_A_79_7_ADD_20_1731529252553",
+      "title": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm",
+      "text": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm United Nations A/79/7/Add.20 General Assembly Distr.: General 6 November 2024 Original: English 24-20507 (E) 121124 *2420507* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political mis",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "delisting_guidance",
+      "regime_id": null,
+      "issued_on": "2025-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=A/79/7/ADD.20&i=A/79/7/ADD.20_1731529252553",
+      "topics": [
+        "sanctions",
+        "delisting"
+      ],
+      "metadata": {
+        "origin_id": "A/79/7/ADD.20_1731529252553",
+        "data_source": "ODS"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_TRAVEL_BAN",
       "title": "Запрет на пое",
       "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
@@ -5615,6 +5653,42 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "旅行禁",
+      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
+      "title": "Запрет на пое",
+      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
+      "topics": [
+        "sanctions"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
         "data_source": "UN"
       }
     },
@@ -5634,24 +5708,6 @@
       ],
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "旅行禁",
-      "text": "旅行禁 旅行禁令 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/1267/exemptions/travel-ban",
         "data_source": "UN"
       }
     },
@@ -5691,62 +5747,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_1267_EXEMPTIONS_TRAVEL_BAN",
-      "title": "Запрет на пое",
-      "text": "Запрет на пое Запрет на поездки | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Search form Пои",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "exemption_guidance",
-      "regime_id": null,
-      "issued_on": null,
-      "url": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
-      "topics": [
-        "sanctions"
-      ],
-      "metadata": {
-        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/exemptions/travel-ban",
-        "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_A_79_6_SECT_3_ADD_8_1728666202372",
-      "title": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting",
-      "text": "A/79/6 (SECT.3)/ADD.8 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting United Nations A/79/6 (Sect.3)/Add.8 General Assembly Distr.: General 30 September 2024 Original: English 24-17592 (E) 031024 *2417592* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "delisting_guidance",
-      "regime_id": null,
-      "issued_on": "2025-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=A/79/6 (SECT.3)/ADD.8&i=A/79/6 (SECT.3)/ADD.8_1728666202372",
-      "topics": [
-        "sanctions",
-        "delisting"
-      ],
-      "metadata": {
-        "origin_id": "A/79/6 (SECT.3)/ADD.8_1728666202372",
-        "data_source": "ODS"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_A_79_7_ADD_20_1731529252553",
-      "title": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm",
-      "text": "A/79/7/ADD.20 - Proposed programme budget for 2025. Part 2, Political affairs. Section 3, Political affairs. Special political missions, Thematic cluster II : sanctions monitoring teams, groups and panels, and other entities and mechanisms : Office of the Focal Point for Delisting : 21st report of the Advisory Comm United Nations A/79/7/Add.20 General Assembly Distr.: General 6 November 2024 Original: English 24-20507 (E) 121124 *2420507* Seventy-ninth session Agenda item 139 Proposed programme budget for 2025 Proposed programme budget for 2025 Part II Political affairs Section 3 Political affairs Special political mis",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "delisting_guidance",
-      "regime_id": null,
-      "issued_on": "2025-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=A/79/7/ADD.20&i=A/79/7/ADD.20_1731529252553",
-      "topics": [
-        "sanctions",
-        "delisting"
-      ],
-      "metadata": {
-        "origin_id": "A/79/7/ADD.20_1731529252553",
-        "data_source": "ODS"
       }
     },
     {
@@ -25446,7 +25446,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25454,7 +25454,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25462,7 +25462,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25470,7 +25470,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2026-03-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25478,7 +25478,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25486,7 +25486,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2026-03-27",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25494,7 +25494,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-04-11",
+      "last_checked": "2026-04-12",
       "last_updated": "2018-09-13",
       "check_frequency": "monthly",
       "status": "fresh",
