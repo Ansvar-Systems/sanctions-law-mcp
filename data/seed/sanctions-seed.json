@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-04-13",
+  "generated_on": "2026-04-14",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -5694,6 +5694,63 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ZH_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "武器禁",
+      "text": "武器禁 武器禁运 | 联合国安全理事会 Skip to main content 欢迎来到联合国，您的世界 Toggle navigation 语言",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/zh/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_ES_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU",
+      "text": "Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Embargo de Armas | CONSEJO DE SEGURIDAD DE LA ONU Skip to main content Bienvenidos a las Naciones Unidas Toggle navigation Idioma: عربي 中文 English Français Русский Español CONSEJO DE SEGURID",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/es/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_HTTPS_WWW_UN_ORG_SECURITYCOUNCIL_RU_SANCTIONS_751_EXEMPTIONS_ARMS_EMBARGO",
+      "title": "Изъятия из оруж",
+      "text": "Изъятия из оруж Изъятия из оружейных эмбарго | СОВЕТ БЕЗОПАСНОСТИ ООН Skip to main content Добро пожаловать в ООН Toggle navigation Язык: عربي 中文 English Français Русский Español СОВЕТ БЕЗОПАСНОСТИ ООН Sear",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "exemption_guidance",
+      "regime_id": null,
+      "issued_on": null,
+      "url": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+      "topics": [
+        "sanctions",
+        "embargo"
+      ],
+      "metadata": {
+        "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/751/exemptions/arms-embargo",
+        "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
       "item_id": "UN_GUIDE_S_2025_71_REV_1_1739909881528",
       "title": "S/2025/71/REV.1 - Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, g",
       "text": "S/2025/71/REV.1 - Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da'esh), Al-Qaida and associated individuals, g United Nations S/2025/71/Rev.1 Security Council Distr.: General 6 February 2025 Original: English 25-02529 (E) 180225 *2502529* Letter dated 6 February 2025 from the President of the Security Council acting in the absence of a Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in",
@@ -5795,22 +5852,6 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
         "data_source": "UN"
-      }
-    },
-    {
-      "source_id": "UN_COMMITTEE_GUIDANCE",
-      "item_id": "UN_GUIDE_S_2018_120_2824478",
-      "title": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH",
-      "text": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH United Nations S/2018/120 Security Council Distr.: General 14 February 2018 Original: English 18-02494 (E) 200218 *1802494* Letter dated 14 February 2018 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals",
-      "parent": "UN Security Council sanctions guidance",
-      "kind": "committee_guidance",
-      "regime_id": null,
-      "issued_on": "2018-01-01",
-      "url": "https://documents.un.org/symbol-explorer?s=S/2018/120&i=S/2018/120_2824478",
-      "topics": [],
-      "metadata": {
-        "origin_id": "S/2018/120_2824478",
-        "data_source": "ODS"
       }
     },
     {
@@ -25405,7 +25446,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25413,15 +25454,15 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 67 source records."
+      "notes": "Full-corpus ingestion completed with 69 source records."
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25429,7 +25470,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2026-03-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25437,7 +25478,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25445,7 +25486,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2026-03-27",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25453,7 +25494,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-04-13",
+      "last_checked": "2026-04-14",
       "last_updated": "2018-09-13",
       "check_frequency": "monthly",
       "status": "fresh",
