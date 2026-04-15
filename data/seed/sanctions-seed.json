@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-04-14",
+  "generated_on": "2026-04-15",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -5852,6 +5852,22 @@
       "metadata": {
         "origin_id": "https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries",
         "data_source": "UN"
+      }
+    },
+    {
+      "source_id": "UN_COMMITTEE_GUIDANCE",
+      "item_id": "UN_GUIDE_S_2018_120_2824478",
+      "title": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH",
+      "text": "S/2018/120 - LETTER DATED 14 FEBRUARY 2018 FROM THE CHAIR OF THE SECURITY COUNCIL COMMITTEE ESTABLISHED PURSUANT TO RESOLUTIONS 1267 (1999), 1989 (2011) AND 2253 (2015) CONCERNING ISLAMIC STATE IN IRAQ AND THE LEVANT (DA'ESH), AL-QAIDA AND ASSOCIATED INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES ADDRESSED TO TH United Nations S/2018/120 Security Council Distr.: General 14 February 2018 Original: English 18-02494 (E) 200218 *1802494* Letter dated 14 February 2018 from the Chair of the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals",
+      "parent": "UN Security Council sanctions guidance",
+      "kind": "committee_guidance",
+      "regime_id": null,
+      "issued_on": "2018-01-01",
+      "url": "https://documents.un.org/symbol-explorer?s=S/2018/120&i=S/2018/120_2824478",
+      "topics": [],
+      "metadata": {
+        "origin_id": "S/2018/120_2824478",
+        "data_source": "ODS"
       }
     },
     {
@@ -25446,7 +25462,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25454,15 +25470,15 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
-      "notes": "Full-corpus ingestion completed with 69 source records."
+      "notes": "Full-corpus ingestion completed with 70 source records."
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25470,7 +25486,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2026-03-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25478,7 +25494,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25486,7 +25502,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2026-03-27",
       "check_frequency": "daily",
       "status": "fresh",
@@ -25494,7 +25510,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-04-14",
+      "last_checked": "2026-04-15",
       "last_updated": "2018-09-13",
       "check_frequency": "monthly",
       "status": "fresh",
