@@ -6,6 +6,7 @@
 import type { Tool } from '@modelcontextprotocol/sdk/types.js';
 
 import { buildCitation } from '../citation.js';
+import { buildMeta } from '../utils/response-meta.js';
 import { about } from './about.js';
 import { checkCyberSanctions, type CheckCyberSanctionsInput } from './check-cyber-sanctions.js';
 import { checkDataFreshness, type CheckDataFreshnessInput } from './check-data-freshness.js';
@@ -190,7 +191,7 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
   switch (name) {
     case 'search_sanctions_law': {
       const searchResults = await searchSanctionsLaw(db, args as unknown as SearchSanctionsLawInput);
-      return searchResults.map((r: any) => ({
+      const results = searchResults.map((r: any) => ({
         ...r,
         _citation: buildCitation(
           `${r.source_name ?? r.source_id} ${r.item_id}`,
@@ -200,6 +201,7 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
           r.official_url || undefined,
         ),
       }));
+      return { results, count: results.length, _meta: buildMeta() };
     }
     case 'get_provision': {
       const provResult = await getProvision(db, args as unknown as GetProvisionInput);
@@ -301,10 +303,14 @@ export async function callTool(db: any, name: string, args: Record<string, unkno
         ),
       }));
     }
-    case 'list_sources':
-      return listSources(db, args as unknown as ListSourcesInput);
-    case 'about':
-      return about(db);
+    case 'list_sources': {
+      const sourcesResult = listSources(db, args as unknown as ListSourcesInput);
+      return { ...sourcesResult, _meta: buildMeta() };
+    }
+    case 'about': {
+      const aboutResult = about(db);
+      return { ...(aboutResult as object), _meta: buildMeta() };
+    }
     case 'check_data_freshness':
       return checkDataFreshness(db, args as unknown as CheckDataFreshnessInput);
     default:
