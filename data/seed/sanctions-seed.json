@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_on": "2026-04-23",
+  "generated_on": "2026-04-24",
   "sources": [
     {
       "id": "UN_SC_RESOLUTIONS",
@@ -24211,7 +24211,7 @@
   "source_freshness": [
     {
       "source_id": "UN_SC_RESOLUTIONS",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2026-01-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24219,7 +24219,7 @@
     },
     {
       "source_id": "UN_COMMITTEE_GUIDANCE",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2018-06-01",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24227,7 +24227,7 @@
     },
     {
       "source_id": "EU_RESTRICTIVE_MEASURES",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2025-10-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24235,7 +24235,7 @@
     },
     {
       "source_id": "US_OFAC_EXECUTIVE_ORDERS",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2026-03-19",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24243,7 +24243,7 @@
     },
     {
       "source_id": "US_BIS_EAR",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2026-01-15",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24251,7 +24251,7 @@
     },
     {
       "source_id": "UK_OFSI_REGULATIONS",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2026-04-22",
       "check_frequency": "daily",
       "status": "fresh",
@@ -24259,7 +24259,7 @@
     },
     {
       "source_id": "CJEU_SANCTIONS_CASE_LAW",
-      "last_checked": "2026-04-23",
+      "last_checked": "2026-04-24",
       "last_updated": "2018-09-13",
       "check_frequency": "monthly",
       "status": "fresh",
