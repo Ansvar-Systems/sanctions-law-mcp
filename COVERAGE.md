@@ -1,25 +1,25 @@
 # Data Coverage
 
-Generated baseline: 2026-04-26 (full-corpus mode)
+Generated baseline: 2026-04-27 (full-corpus mode)
 
 ## Overview
 
 | Metric | Value |
 |--------|-------|
 | Total Sources | 7 |
-| Provisions | 962 |
+| Provisions | 1214 |
 | Sanctions Regimes | 6 |
 | Executive Orders | 176 |
 | Delisting Procedures | 4 |
 | Export Controls | 97 |
 | Case Law Items | 4 |
-| Estimated Coverage | 58.29% |
+| Estimated Coverage | 72.43% |
 
 ## Source Completion
 
 | Source ID | Actual | Expected | Completion |
 |---|---:|---:|---:|
-| `UN_SC_RESOLUTIONS` | 2 | 200 | 1.00% |
+| `UN_SC_RESOLUTIONS` | 254 | 200 | 100.00% |
 | `UN_COMMITTEE_GUIDANCE` | 1 | 50 | 2.00% |
 | `EU_RESTRICTIVE_MEASURES` | 484 | 100 | 100.00% |
 | `US_OFAC_EXECUTIVE_ORDERS` | 354 | 130 | 100.00% |
