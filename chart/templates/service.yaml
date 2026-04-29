@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "sanctions-law-mcp.fullname" . }}
+  labels:
+    {{- include "sanctions-law-mcp.labels" . | nindent 4 }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - name: http
+      port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      appProtocol: agentgateway.dev/mcp
+  selector:
+    {{- include "sanctions-law-mcp.selectorLabels" . | nindent 4 }}

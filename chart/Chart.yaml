@@ -1,0 +1,9 @@
+apiVersion: v2
+name: sanctions-law-mcp
+description: Sanctions Law MCP HTTP server — UN, EU, US, UK, CJEU sanctions legal frameworks (provisions, executive orders, case law, export controls)
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+maintainers:
+  - name: Ansvar Platform Team
+    email: platform@ansvar.eu
