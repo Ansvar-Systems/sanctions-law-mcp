@@ -1,6 +1,6 @@
 # Data Coverage
 
-Generated baseline: 2026-04-30 (full-corpus mode)
+Generated baseline: 2026-05-01 (full-corpus mode)
 
 ## Overview
 
@@ -12,8 +12,8 @@ Generated baseline: 2026-04-30 (full-corpus mode)
 | Executive Orders | 176 |
 | Delisting Procedures | 4 |
 | Export Controls | 97 |
-| Case Law Items | 4 |
-| Estimated Coverage | 72.43% |
+| Case Law Items | 123 |
+| Estimated Coverage | 86.00% |
 
 ## Source Completion
 
@@ -25,7 +25,7 @@ Generated baseline: 2026-04-30 (full-corpus mode)
 | `US_OFAC_EXECUTIVE_ORDERS` | 354 | 130 | 100.00% |
 | `US_BIS_EAR` | 100 | 40 | 100.00% |
 | `UK_OFSI_REGULATIONS` | 293 | 30 | 100.00% |
-| `CJEU_SANCTIONS_CASE_LAW` | 5 | 100 | 5.00% |
+| `CJEU_SANCTIONS_CASE_LAW` | 124 | 100 | 100.00% |
 
 ## Freshness Monitoring
 
